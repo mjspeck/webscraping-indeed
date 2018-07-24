@@ -1,0 +1,650 @@
+,Job Title,Company,Location,Salary,Search Term,lower_sal_val,upper_sal_val,mean salary,median_bool,state,60_perc_bool,70_perc_bool,75_perc_bool,90_perc_bool
+0,Data Scientist,    Platinum Solutions,"Houston, TX",80000 - 120000,Houston,80000,120000,100000.0,False,'TX',False,False,False,False
+1,Bioinformatics Software Developer,    Genialis,"Houston, TX",50000 - 80000,Houston,50000,80000,65000.0,False,'TX',False,False,False,False
+2,Quality Assurance Analyst (Research),        Baylor College of Medicine,"Houston, TX",43794,Houston,43794,43794,43794.0,False,'TX',False,False,False,False
+3,Flow Cytometry Specialist I,        Baylor College of Medicine,"Houston, TX",46831,Houston,46831,46831,46831.0,False,'TX',False,False,False,False
+4,Research Statistical Analyst -Bioinformatics &amp; Computational...,        MD Anderson Cancer Center,"Houston, TX",66400 - 99600,Houston,66400,99600,83000.0,False,'TX',False,False,False,False
+5,Data Architect,        Career Evolutions,"Phoenix, AZ",150000,Phoenix,150000,150000,150000.0,True,'AZ',True,True,True,False
+6,RESEARCH AND STATISTICAL ANALYST,        Arizona Health Care Cost Containment System,"Phoenix, AZ",39983 - 55500,Phoenix,39983,55500,47741.5,False,'AZ',False,False,False,False
+7,AIR QUALITY PLANNER 2-3,        State of Arizona,"Phoenix, AZ",45000 - 77000,Phoenix,45000,77000,61000.0,False,'AZ',False,False,False,False
+8,Paralegal,"    Emord &amp; Associates, P.C.","Gilbert, AZ 85295",45000 - 55000,Phoenix,45000,55000,50000.0,False,'AZ',False,False,False,False
+9,ENVIRONMENTAL SCIENTIST - EMISSIONS,        State of Arizona,"Phoenix, AZ",49000 - 61000,Phoenix,49000,61000,55000.0,False,'AZ',False,False,False,False
+10,Web Security Research Analyst,        SiteLock,"Scottsdale, AZ",50000 - 55000,Phoenix,50000,55000,52500.0,False,'AZ',False,False,False,False
+11,COMPLIANCE OFFICER - HAZ WASTE,        State of Arizona,"Phoenix, AZ",50000 - 61500,Phoenix,50000,61500,55750.0,False,'AZ',False,False,False,False
+12,RESEARCH &amp; STATISTICS ANALYST,        State of Arizona,"Phoenix, AZ",30000 - 45000,Phoenix,30000,45000,37500.0,False,'AZ',False,False,False,False
+13,ENVIRONMENTAL TECHNICIAN,        State of Arizona,"Phoenix, AZ",33000 - 42000,Phoenix,33000,42000,37500.0,False,'AZ',False,False,False,False
+14,Digital Marketing (Data Scientist),"    Kennedy Unlimited Inc, Professional Staffing","Phoenix, AZ",100000 - 130000,Phoenix,100000,130000,115000.0,True,'AZ',False,False,False,False
+15,"Information Technology Support Analyst, Senior (Phoenix, AZ)",        The University of Arizona,"Phoenix, AZ",39173 - 54944,Phoenix,39173,54944,47058.5,False,'AZ',False,False,False,False
+16,Data Engineer,    Enodo Score,"Chicago, IL",70000 - 90000,Chicago,70000,90000,80000.0,False,'IL',False,False,False,False
+17,Data Scientist,        Huxley Associates,"Chicago, IL",100000,Chicago,100000,100000,100000.0,False,'IL',False,False,False,False
+18,Data Scientist,        Jobspring Partners,"Chicago, IL",120000 - 140000,Chicago,120000,140000,130000.0,True,'IL',True,False,False,False
+19,"Analyst/Senior Analyst, Advanced Analytics",        Liberty Mutual,"Chicago, IL",73300 - 114900,Chicago,73300,114900,94100.0,False,'IL',False,False,False,False
+20,Data Scientist,    Hirewell,"Evanston, IL",150000,Chicago,150000,150000,150000.0,True,'IL',True,True,True,False
+21,Senior Data Scientist,        Workbridge Associates,"Chicago, IL",130000,Chicago,130000,130000,130000.0,True,'IL',True,False,False,False
+22,Data Scientist,        Workbridge Associates,"Chicago, IL",125000,Chicago,125000,125000,125000.0,True,'IL',False,False,False,False
+23,Machine Learning Engineer,        Jobspring Partners,"Chicago, IL",120000 - 150000,Chicago,120000,150000,135000.0,True,'IL',True,False,False,False
+24,Statistical Analyst,        The LaSalle Network,"Chicago, IL 60601 (Loop area)",80000,Chicago,80000,80000,80000.0,False,'IL',False,False,False,False
+25,Principal Data Lead (Machine Learning),        Jobspring Partners,"Chicago, IL 60604 (Loop area)",180000,Chicago,180000,180000,180000.0,True,'IL',True,True,True,True
+26,Principal Data Scientist,        Jobspring Partners,"Chicago, IL 60610 (Near North Side area)",160000,Chicago,160000,160000,160000.0,True,'IL',True,True,True,False
+27,Statistical Analyst -- Health-7444,    S.C. International,"Chicago, IL",80000,Chicago,80000,80000,80000.0,False,'IL',False,False,False,False
+28,Lead Data Scientist,        Jobspring Partners,"Chicago, IL 60603 (Loop area)",150000,Chicago,150000,150000,150000.0,True,'IL',True,True,True,False
+29,Quantitative Research Analyst,        Huxley Associates,"Chicago, IL",150000,Chicago,150000,150000,150000.0,True,'IL',True,True,True,False
+30,Quantitative Risk Analyst,        Huxley Associates,"Chicago, IL",100000,Chicago,100000,100000,100000.0,False,'IL',False,False,False,False
+31,Quantitative Analyst,    Huxley Banking &amp; Financial Services,"Chicago, IL",100000,Chicago,100000,100000,100000.0,False,'IL',False,False,False,False
+32,Open Source Geniuses,    Hirewell,"Chicago, IL",120000,Chicago,120000,120000,120000.0,True,'IL',False,False,False,False
+33,Lead Data Scientist,    Harnham,"Chicago, IL",250000,Chicago,250000,250000,250000.0,True,'IL',True,True,True,True
+34,CTO,        Workbridge Associates,"Chicago, IL",90000 - 120000,Chicago,90000,120000,105000.0,False,'IL',False,False,False,False
+35,Research Analyst-Clearing House,    Huxley Banking &amp; Financial Services,"Chicago, IL",90000,Chicago,90000,90000,90000.0,False,'IL',False,False,False,False
+36,Lead Data Scientist (NLP),        Workbridge Associates,"Chicago, IL",135000,Chicago,135000,135000,135000.0,True,'IL',True,False,False,False
+37,Postdoctoral Fellow in Stem Cell Biology and Pharmacogenomic...,        Northwestern University,"Chicago, IL",47484,Chicago,47484,47484,47484.0,False,'IL',False,False,False,False
+38,Principal Machine Learning Engineer,        Jobspring Partners,"Chicago, IL 60604 (Loop area)",160000,Chicago,160000,160000,160000.0,True,'IL',True,True,True,False
+39,Senior Data Engineer with Machine Learning,        Jobspring Partners,"Chicago, IL",120000 - 130000,Chicago,120000,130000,125000.0,True,'IL',False,False,False,False
+40,Statistical Analyst,        Smith Hanley Associates,"Rosemont, IL",75000,Chicago,75000,75000,75000.0,False,'IL',False,False,False,False
+41,"Junior Data Scientist (Python, Spark, SciKitLearn)",        Workbridge Associates,"Chicago, IL 60603 (Loop area)",100000,Chicago,100000,100000,100000.0,False,'IL',False,False,False,False
+42,Data Scientist -Fitness/Wellness Firm,    Hirewell,"Chicago, IL",120000,Chicago,120000,120000,120000.0,True,'IL',False,False,False,False
+43,Sr. Machine Learning Developer,    All-In Analytics,"Downers Grove, IL",70000 - 80000,Chicago,70000,80000,75000.0,False,'IL',False,False,False,False
+44,"Data Scientist (Python, Spark, AWS)",        Workbridge Associates,"Chicago, IL",75000 - 110000,Chicago,75000,110000,92500.0,False,'IL',False,False,False,False
+45,Full Stack Developer,        Workbridge Associates,"Chicago, IL 60603 (Loop area)",90000,Chicago,90000,90000,90000.0,False,'IL',False,False,False,False
+46,"Predictive Modeling, Director",        Analytic Recruiting,"Chicago, IL",115000 - 135000,Chicago,115000,135000,125000.0,True,'IL',False,False,False,False
+47,Study Based Research Position in the State of Road Island &amp;...,    RASS BIOSOLUTION PVT LTD,"Chicago, IL",60000,Chicago,60000,60000,60000.0,False,'IL',False,False,False,False
+48,Data Scientist - Predictive Modeler - P&amp;C/Health/Life-7644,    S.C. International,"Chicago, IL",130000,Chicago,130000,130000,130000.0,True,'IL',True,False,False,False
+49,Data Acquisition Programmer,    Ceres Imaging,"Oakland, CA",90000 - 150000,San Francisco,90000,150000,120000.0,True,'CA',False,False,False,False
+50,Sr Data Scientist - NLP &amp; CODING REQUIRED,    PMES,"San Ramon, CA",150000,San Francisco,150000,150000,150000.0,True,'CA',True,True,True,False
+51,"Director of Data Science, Analytics",    Averity,"San Francisco, CA",175000 - 250000,San Francisco,175000,250000,212500.0,True,'CA',True,True,True,True
+52,"Senior Scientist III, Pre-Clinical Safety",    EPM Scientific,"Redwood City, CA",140000,San Francisco,140000,140000,140000.0,True,'CA',True,False,False,False
+53,Associate Data Scientist,    Harnham,"San Mateo, CA",130000,San Francisco,130000,130000,130000.0,True,'CA',True,False,False,False
+54,"1809 Education Policy Analyst - Research, Evaluation, Policy...",    San Francisco Unified School District - COE,"San Francisco, CA",87834 - 117112,San Francisco,87834,117112,102473.0,False,'CA',False,False,False,False
+55,Principal Machine Learning Scientist,    Tandem Recruiting Group,"San Francisco Bay Area, CA",130000 - 150000,San Francisco,130000,150000,140000.0,True,'CA',True,False,False,False
+56,Lead Data Scientist,    3coast,"San Mateo, CA",130000 - 160000,San Francisco,130000,160000,145000.0,True,'CA',True,True,False,False
+57,Senior Data Scientist (Python),        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",170000,San Francisco,170000,170000,170000.0,True,'CA',True,True,True,False
+58,Senior Data Scientist,        Workbridge Associates,"San Francisco, CA 94105 (Financial District area)",200000,San Francisco,200000,200000,200000.0,True,'CA',True,True,True,True
+59,Lead Data Scientist (Life Sciences Opportunity),        Workbridge Associates,"San Francisco, CA",140000 - 160000,San Francisco,140000,160000,150000.0,True,'CA',True,True,True,False
+60,Marketing and Recruitment Specialist Job - Fung Inst.,        University of California Berkeley,"Berkeley, CA",53800 - 81900,San Francisco,53800,81900,67850.0,False,'CA',False,False,False,False
+61,"Data Scientist, Customer Analytics",    All-In Analytics,"San Francisco, CA",140000 - 160000,San Francisco,140000,160000,150000.0,True,'CA',True,True,True,False
+62,Teradata Analyst,    International Solution Sources LLC,"San Francisco, CA 94105 (Financial District area)",50000,San Francisco,50000,50000,50000.0,False,'CA',False,False,False,False
+63,Head of Data Science,    Harnham,"San Francisco, CA",225000,San Francisco,225000,225000,225000.0,True,'CA',True,True,True,True
+64,Machine Learning Algorithm Engineer,    3coast,"San Mateo, CA",120000 - 180000,San Francisco,120000,180000,150000.0,True,'CA',True,True,True,False
+65,Sr Data Scientist/Solution Architect,    Redfish Technology,"Berkeley, CA 94705",250000,San Francisco,250000,250000,250000.0,True,'CA',True,True,True,True
+66,Sr. Customer Success Manager,    Smarking,"San Francisco, CA",60000 - 100000,San Francisco,60000,100000,80000.0,False,'CA',False,False,False,False
+67,Real World Evidence Statistical Analyst,        Barrington James,"New York, NY 10005 (Financial District area)",110000,New York,110000,110000,110000.0,True,'NY',False,False,False,False
+68,Sr Data Scientist - NLP &amp; CODING REQUIRED,    PMES,"New York, NY",155000,New York,155000,155000,155000.0,True,'NY',True,True,True,False
+69,Data Scientist,    indify,"New York, NY",90000 - 170000,New York,90000,170000,130000.0,True,'NY',True,False,False,False
+70,Data Scientist,    WorldCover,"New York, NY",70000 - 110000,New York,70000,110000,90000.0,False,'NY',False,False,False,False
+71,Data Architect/ Data Engineer,"    Envisagenics, Inc.","New York, NY",65000 - 110000,New York,65000,110000,87500.0,False,'NY',False,False,False,False
+72,Data Scientist,    Enterprise Select,"New York, NY 10038 (Financial District area)",130000,New York,130000,130000,130000.0,True,'NY',True,False,False,False
+73,Senior Research Analyst,        Research Foundation of The City University of New...,"New York, NY",70000 - 80000,New York,70000,80000,75000.0,False,'NY',False,False,False,False
+74,Data Scientist,    Scienaptic Systems Inc,"New York, NY",100000,New York,100000,100000,100000.0,False,'NY',False,False,False,False
+75,Data Analyst/Modeler,        DEPARTMENT OF FINANCE,"Manhattan, NY",70286 - 80829,New York,70286,80829,75557.5,False,'NY',False,False,False,False
+76,VP Data Science,    Beeswax,"New York, NY",130000 - 165000,New York,130000,165000,147500.0,True,'NY',True,True,False,False
+77,"Data Team Leader (VP, Director)",        VROOM,"New York, NY",140000 - 180000,New York,140000,180000,160000.0,True,'NY',True,True,True,False
+78,Junior Data Scientist,        Oliver James Associates,"New York, NY",110000 - 111000,New York,110000,111000,110500.0,True,'NY',False,False,False,False
+79,Data Analyst,        ADMIN FOR CHILDREN'S SVCS,"Manhattan, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+80,"Director of Data Science, Analytics",    Averity,"New York, NY",175000 - 250000,New York,175000,250000,212500.0,True,'NY',True,True,True,True
+81,Principal Data Scientist,    Averity,"New York, NY",150000 - 185000,New York,150000,185000,167500.0,True,'NY',True,True,True,False
+82,Post-doc Research Scientist,        Research Foundation of The City University of New...,"New York, NY",60000 - 65000,New York,60000,65000,62500.0,False,'NY',False,False,False,False
+83,Data Scientist,    Princeton Consulting,"New York, NY 10018 (Clinton area)",100000 - 200000,New York,100000,200000,150000.0,True,'NY',True,True,True,False
+84,"Senior Data Scientist for Multi-Billion, Top-Ranked Global C...",    Averity,"New York, NY",100000 - 120000,New York,100000,120000,110000.0,True,'NY',False,False,False,False
+85,Health Scientist,        Centers for Disease Control and Prevention,"New York, NY",88305 - 146570,New York,88305,146570,117437.5,True,'NY',False,False,False,False
+86,Data Engineer,    Harnham,"New York, NY",150000,New York,150000,150000,150000.0,True,'NY',True,True,True,False
+87,Hydrologist,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",72000 - 84000,New York,72000,84000,78000.0,False,'NY',False,False,False,False
+88,Hydrologist,        NYC Parks Dept,"New York, NY",72000 - 84000,New York,72000,84000,78000.0,False,'NY',False,False,False,False
+89,Senior Data Scientist for Fortune 500 Company,    Averity,"New York, NY",150000 - 185000,New York,150000,185000,167500.0,True,'NY',True,True,True,False
+90,Senior Data Scientist ( FinTech / Python / R / ML / Big Data...,    Venturi Ltd,"New York, NY",120000 - 200000,New York,120000,200000,160000.0,True,'NY',True,True,True,False
+91,Senior Statistical Programmer,    Whiz Finder Corporation,"East Hanover, NJ",105000 - 125000,New York,105000,125000,115000.0,True,'NJ',False,False,False,False
+92,Water Quality Analyst,    DEPT OF ENVIRONMENT PROTECTION,"New York, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+93,DATA ANALYST,        HRA/DEPT OF SOCIAL SERVICES,"Manhattan, NY",57969 - 62000,New York,57969,62000,59984.5,False,'NY',False,False,False,False
+94,Data Analyst,        POLICE DEPARTMENT,"New York, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+95,Senior Project Manager,        HRA/DEPT OF SOCIAL SERVICES,"Manhattan, NY",78630 - 94500,New York,78630,94500,86565.0,False,'NY',False,False,False,False
+96,Data Scientist,        Smith Hanley Associates,"New York, NY",90000,New York,90000,90000,90000.0,False,'NY',False,False,False,False
+97,Senior Systematic Quantitative Analyst - Multi-billion Dolla...,    Averity,"New York, NY",180000 - 220000,New York,180000,220000,200000.0,True,'NY',True,True,True,True
+98,Field Scientist,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",59708 - 65678,New York,59708,65678,62693.0,False,'NY',False,False,False,False
+99,Project Manager,        HRA/DEPT OF SOCIAL SERVICES,"Manhattan, NY",70286 - 83000,New York,70286,83000,76643.0,False,'NY',False,False,False,False
+100,"VP Data Scientist, Data Science Manager, Data Scientist",        Oliver James Associates,"New York, NY",110000 - 250000,New York,110000,250000,180000.0,True,'NY',True,True,True,True
+101,Policy Data Analyst,        DEPARTMENT OF FINANCE,"Manhattan, NY",68239 - 80000,New York,68239,80000,74119.5,False,'NY',False,False,False,False
+102,Compliance Team Leader,        DEPT. OF HOMELESS SERVICES,"Manhattan, NY",78630 - 103332,New York,78630,103332,90981.0,False,'NY',False,False,False,False
+103,Python Backend working with Deep Learning,        Jobspring Partners,"New York, NY 10036",160000,New York,160000,160000,160000.0,True,'NY',True,True,True,False
+104,Senior Data Scientist,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",120000,New York,120000,120000,120000.0,True,'NY',False,False,False,False
+105,Environmental Permits Coordinator,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",59708 - 72246,New York,59708,72246,65977.0,False,'NY',False,False,False,False
+106,Postdoctoral Fellow,        Icahn School of Medicine at Mount Sinai,"New York, NY",55000,New York,55000,55000,55000.0,False,'NY',False,False,False,False
+107,Quantitative Analyst,        Huxley Associates,"New York, NY 10020 (Midtown area)",170000,New York,170000,170000,170000.0,True,'NY',True,True,True,False
+108,Senior Data Engineer,    Harnham,"New York, NY",175000,New York,175000,175000,175000.0,True,'NY',True,True,True,False
+109,Director System Data Analysis (Op Planning),        Metropolitan Transportation Authority,"Manhattan, NY",91821,New York,91821,91821,91821.0,False,'NY',False,False,False,False
+110,Security Research Analyst-Virtual Nationwide,    ALC Staffing Associates,"New York, NY",116000 - 120000,New York,116000,120000,118000.0,True,'NY',False,False,False,False
+111,Head of Machine Learning,        Execu | Search,"New York, NY",125000 - 200000,New York,125000,200000,162500.0,True,'NY',True,True,True,False
+112,Overdose Prevention Coordinator,        DEPT. OF HOMELESS SERVICES,"Manhattan, NY",78630 - 88213,New York,78630,88213,83421.5,False,'NY',False,False,False,False
+113,Marketing Research Analyst/Consumer Insights Analyst,        The Forum Group,"New York, NY 10016 (Gramercy area)",45000 - 65000,New York,45000,65000,55000.0,False,'NY',False,False,False,False
+114,Environmental Compliance Specialist,        DEPARTMENT OF TRANSPORTATION,"Manhattan, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+115,Water Resources Analyst,    DEPT OF ENVIRONMENT PROTECTION,"New York, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+116,Equity Research Analyst,        Execu | Search,"New York, NY",70000 - 100000,New York,70000,100000,85000.0,False,'NY',False,False,False,False
+117,Quantitative Analyst,        Execu | Search,"New York, NY",150000 - 200000,New York,150000,200000,175000.0,True,'NY',True,True,True,False
+118,Data Scientist for Data- Driven HealthTech Company,    Averity,"New York, NY",125000 - 150000,New York,125000,150000,137500.0,True,'NY',True,False,False,False
+119,Data Scientist Needed for Disruptive Tech Firm,    Averity,"New York, NY",80000 - 120000,New York,80000,120000,100000.0,False,'NY',False,False,False,False
+120,Bioinformatics Scientist/ Data Scientist,"    Envisagenics, Inc.","New York, NY",65000 - 110000,New York,65000,110000,87500.0,False,'NY',False,False,False,False
+121,"Coordinator / Lead Scientist, Municipal Storm Sewer Systems",        POLICE DEPARTMENT,"New York, NY",78630 - 103332,New York,78630,103332,90981.0,False,'NY',False,False,False,False
+122,EpicCare Ambulatory Analyst: Research-Registry TP136,    Edwards Place of Employment,"New York, NY",100000 - 125000,New York,100000,125000,112500.0,True,'NY',False,False,False,False
+123,Sr Software Engineer II,        Altair Engineering,"Dallas, TX",102000,Dallas,102000,102000,102000.0,False,'TX',False,False,False,False
+124,"Senior Analyst, Supply Chain Analytics",        Smith Hanley Associates,"Dallas, TX",80000 - 100000,Dallas,80000,100000,90000.0,False,'TX',False,False,False,False
+125,Senior Statistician,    Harnham,"Dallas, TX",100000 - 110000,Dallas,100000,110000,105000.0,False,'TX',False,False,False,False
+126,Research Associate,        University of Texas at Dallas,"Richardson, TX",50000,Dallas,50000,50000,50000.0,False,'TX',False,False,False,False
+127,Certifying Scientist,    Lighthouse Recruiting,"Dallas, TX",65000 - 80000,Dallas,65000,80000,72500.0,False,'TX',False,False,False,False
+128,RISK ANALYST - statistical modeling / SAS,        Cottonwood Financial,"Irving, TX 75038",57150,Dallas,57150,57150,57150.0,False,'TX',False,False,False,False
+129,Data Scientist,"    Computer Enterprises, Inc. (CEI)","Philadelphia, PA",160000,Philadelphia,160000,160000,160000.0,True,'PA',True,True,True,False
+130,Data Scientist,        Workbridge Associates,"Philadelphia, PA",95000 - 120000,Philadelphia,95000,120000,107500.0,False,'PA',False,False,False,False
+131,Data Scientist,        Jobspring Partners,"King of Prussia, PA 19406",125000,Philadelphia,125000,125000,125000.0,True,'PA',False,False,False,False
+132,Director of Data Science,    Averity,"Philadelphia, PA",175000 - 215000,Philadelphia,175000,215000,195000.0,True,'PA',True,True,True,True
+133,Program Manager - Data Analysis/Insider Threat,    Pamir Consulting,"Philadelphia, PA",50000 - 120000,Philadelphia,50000,120000,85000.0,False,'PA',False,False,False,False
+134,Data Scientist,        Liberty Personnel Services,"Wilmington, DE",140000,Philadelphia,140000,140000,140000.0,True,'DE',True,False,False,False
+135,Data Science Manager Healthcare,    Harnham,"Philadelphia, PA",170000,Philadelphia,170000,170000,170000.0,True,'PA',True,True,True,False
+136,Senior Software Engineer (Scala),    Juno Search Partners,"Philadelphia, PA 19107 (City Center East area)",120000,Philadelphia,120000,120000,120000.0,True,'PA',False,False,False,False
+137,Senior Statistician/Data Scientist-PHARMA,        Smith Hanley Associates,"Horsham, PA",120000,Philadelphia,120000,120000,120000.0,True,'PA',False,False,False,False
+138,Personal Care Formulation Scientist,    Chatham Group,"Philadelphia, PA 19148 (South Philadelphia area)",57000,Philadelphia,57000,57000,57000.0,False,'PA',False,False,False,False
+139,Clinical Study Associate Trial Master File – TMF,    inVentiv Health Clincal,"Collegeville, PA",50000 - 62000,Philadelphia,50000,62000,56000.0,False,'PA',False,False,False,False
+140,Data Scientist for Marketing Technology,        Workbridge Associates,"Ambler, PA 19002",175000,Philadelphia,175000,175000,175000.0,True,'PA',True,True,True,False
+141,"Data Scientist - Analytical Experiments, Analytical Tools","    Computer Enterprises, Inc.","Philadelphia, PA 19103 (Belmont area)",130000 - 150000,Philadelphia,130000,150000,140000.0,True,'PA',True,False,False,False
+142,Digital Marketing (Data Scientist),"    Kennedy Unlimited Inc, Professional Staffing","Wilmington, DE",100000 - 130000,Philadelphia,100000,130000,115000.0,True,'DE',False,False,False,False
+143,"SENIOR RESEARCH ANALYST, PORTALS",        Denver Public Schools,"Denver, CO",63339 - 76007,Denver,63339,76007,69673.0,False,'CO',False,False,False,False
+144,Senior Statistical Researcher - Sheriff Department,        City and County of Denver,"Denver, CO 80216 (Northern Denver area)",55132 - 88211,Denver,55132,88211,71671.5,False,'CO',False,False,False,False
+145,Evaluator: Statistical Analyst II (#5156),    State of Colorado Job Opportunities,"Denver, CO",53520 - 78348,Denver,53520,78348,65934.0,False,'CO',False,False,False,False
+146,SR RESEARCH ANALYST - 17096,        Denver Public Schools,"Denver, CO 80204 (Central West Denver area)",63339 - 76007,Denver,63339,76007,69673.0,False,'CO',False,False,False,False
+147,Manager of FP&amp;A,"    Community Investors, Inc.","Denver, CO",50000,Denver,50000,50000,50000.0,False,'CO',False,False,False,False
+148,Postdoctoral Research Associate,    Space Science Institute,"Boulder, CO 80301",60000,Denver,60000,60000,60000.0,False,'CO',False,False,False,False
+149,"Head, Jerry Crail Johnson Earth Sciences &amp; Map Library",        University of Colorado,"Boulder, CO",65000,Denver,65000,65000,65000.0,False,'CO',False,False,False,False
+150,Quantitative Analyst,    Montgomery Assets,"Los Angeles, CA",97000,Los Angeles,97000,97000,97000.0,False,'CA',False,False,False,False
+151,Jr. Data Scientist,    FullDeck,"Los Angeles, CA",40000 - 60000,Los Angeles,40000,60000,50000.0,False,'CA',False,False,False,False
+152,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",        Los Angeles County Department of Human Resources,"Los Angeles, CA",76804 - 100726,Los Angeles,76804,100726,88765.0,False,'CA',False,False,False,False
+153,scientist,    Liberos LLC,"Los Angeles, CA",50000,Los Angeles,50000,50000,50000.0,False,'CA',False,False,False,False
+154,Investigations &amp; Research Analyst,        Gavin de Becker &amp; Associates,"Beverly Hills, CA",40000 - 45000,Los Angeles,40000,45000,42500.0,False,'CA',False,False,False,False
+155,Lead Data Scientist,    HERO.jobs,"Los Angeles, CA",160000,Los Angeles,160000,160000,160000.0,True,'CA',True,True,True,False
+156,Research Analyst - Legal,    Fawkes IDM,"Los Angeles, CA",70000 - 85000,Los Angeles,70000,85000,77500.0,False,'CA',False,False,False,False
+157,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",        Los Angeles County Department of Human Resources,"Los Angeles, CA",73286 - 86231,Los Angeles,73286,86231,79758.5,False,'CA',False,False,False,False
+158,Principal Data Scientist,    Harnham,"Los Angeles, CA",160000,Los Angeles,160000,160000,160000.0,True,'CA',True,True,True,False
+159,Computational Scientist,        Arete Associates,"Northridge, CA 91324",80000 - 89000,Los Angeles,80000,89000,84500.0,False,'CA',False,False,False,False
+160,Senior iOS Developer,        LT,"Los Angeles, CA",170000,Los Angeles,170000,170000,170000.0,True,'CA',True,True,True,False
+161,SUPERVISING CLINICAL LABORATORY SCIENTIST II,        Los Angeles County Department of Human Resources,"Los Angeles, CA",79884 - 104772,Los Angeles,79884,104772,92328.0,False,'CA',False,False,False,False
+162,Senior Backend Data Engineer,        LT,"Los Angeles, CA",190000,Los Angeles,190000,190000,190000.0,True,'CA',True,True,True,True
+163,Senior DevOps Engineer,        LT,"Los Angeles, CA",190000,Los Angeles,190000,190000,190000.0,True,'CA',True,True,True,True
+164,Java Engineer,        LT,"Los Angeles, CA",190000,Los Angeles,190000,190000,190000.0,True,'CA',True,True,True,True
+165,Computer Vision Data Scientist,    MACP Los Angeles,"Los Angeles, CA",185000,Los Angeles,185000,185000,185000.0,True,'CA',True,True,True,True
+166,Property and Casualty Predictive Modeler #74851,    Ezra Penland Actuarial Recruitment,"Los Angeles, CA",160000,Los Angeles,160000,160000,160000.0,True,'CA',True,True,True,False
+167,LC/MS Clinical Laboratory Scientist,    Lighthouse Recruiting,"Pasadena, CA",80000 - 110000,Los Angeles,80000,110000,95000.0,False,'CA',False,False,False,False
+168,Data Scientist,    Workpop,"Santa Monica, CA",80000,Los Angeles,80000,80000,80000.0,False,'CA',False,False,False,False
+169,Research Review Analyst - Full Board,        The University of Pittsburgh,"Pittsburgh, PA",40092 - 65676,Pittsburgh,40092,65676,52884.0,False,'PA',False,False,False,False
+170,Senior Statistician,    All-In Analytics,"Pittsburgh, PA",53000 - 98000,Pittsburgh,53000,98000,75500.0,False,'PA',False,False,False,False
+171,Laboratory Technician,        The University of Pittsburgh,"Pittsburgh, PA",23868 - 37752,Pittsburgh,23868,37752,30810.0,False,'PA',False,False,False,False
+172,Data Scientist/Ontologist,        ApTask,"Pittsburgh, PA 15236",180000,Pittsburgh,180000,180000,180000.0,True,'PA',True,True,True,True
+173,Machine Learning Engineer,        CTI Consulting,"Miami, FL",120000,Miami,120000,120000,120000.0,True,'FL',False,False,False,False
+174,Senior Research Analyst (Statistical Analysis),        University of Miami,"Coral Gables, FL",40000 - 56000,Miami,40000,56000,48000.0,False,'FL',False,False,False,False
+175,Sr. Research Analyst / Pre-award Grants,        University of Miami,"Coral Gables, FL",40000 - 72000,Miami,40000,72000,56000.0,False,'FL',False,False,False,False
+176,Research Analyst (Two open positions),        University of Miami,"Coral Gables, FL",45000 - 55000,Miami,45000,55000,50000.0,False,'FL',False,False,False,False
+177,Sr. Research Analyst,        University of Miami,"Coral Gables, FL",40000 - 72000,Miami,40000,72000,56000.0,False,'FL',False,False,False,False
+178,Research Analyst,        University of Miami,"Coral Gables, FL",32900 - 59100,Miami,32900,59100,46000.0,False,'FL',False,False,False,False
+179,Legal Research Analyst,        Liberty Settlement Funding,"Dania Beach, FL",30000,Miami,30000,30000,30000.0,False,'FL',False,False,False,False
+180,Associate Scientist / R&amp;D Division,    Open Scientific,"Miami, FL",45000 - 50000,Miami,45000,50000,47500.0,False,'FL',False,False,False,False
+181,Research Associate 1,        University of Miami,"Coral Gables, FL",32900 - 59100,Miami,32900,59100,46000.0,False,'FL',False,False,False,False
+182,"Psychiatry- Assistant Scientist, SOM",        University of Miami,"Coral Gables, FL",53900 - 96900,Miami,53900,96900,75400.0,False,'FL',False,False,False,False
+183,Research Laboratory Technician,        University of Miami,"Coral Gables, FL",27400 - 49400,Miami,27400,49400,38400.0,False,'FL',False,False,False,False
+184,Business Development Manager,"    Coastal Risk Consulting, LLC","Plantation, FL",50000,Miami,50000,50000,50000.0,False,'FL',False,False,False,False
+185,Machine learning / AI / Restful API web services Engineer at...,    CareerMonks,"Atlanta, GA",120000,Atlanta,120000,120000,120000.0,True,'GA',False,False,False,False
+186,Supervisory Health Scientist,        Centers for Disease Control and Prevention,"Atlanta, GA",125132 - 161900,Atlanta,125132,161900,143516.0,True,'GA',True,True,False,False
+187,Senior Statistical Consultant,        Principle Solutions Group,"Roswell, GA",120000,Atlanta,120000,120000,120000.0,True,'GA',False,False,False,False
+188,Laboratory Aide 3,        Georgia Department of Public Health,"Atlanta, GA",24000,Atlanta,24000,24000,24000.0,False,'GA',False,False,False,False
+189,Business Research Analyst,    CI Radar,"Norcross, GA",30000 - 32000,Atlanta,30000,32000,31000.0,False,'GA',False,False,False,False
+190,Statistician - Model Validation,        Smith Hanley Associates,"Atlanta, GA",90000 - 120000,Atlanta,90000,120000,105000.0,False,'GA',False,False,False,False
+191,Data Scientist - Healthcare,    Harnham,"Atlanta, GA",170000,Atlanta,170000,170000,170000.0,True,'GA',True,True,True,False
+192,Data Scientist,    NxT Level,"Seattle, WA",125000 - 160000,Seattle,125000,160000,142500.0,True,'WA',True,True,False,False
+193,Software Engineer - Machine Learning,    NxT Level,"Seattle, WA",100000 - 135000,Seattle,100000,135000,117500.0,True,'WA',False,False,False,False
+194,Data Engineer/Scientist,    Employment Trust,"Bellevue, WA",100000 - 135000,Seattle,100000,135000,117500.0,True,'WA',False,False,False,False
+195,Internet Research Analyst,"    G2 Web Services, LLC","Bellevue, WA 98004 (Downtown area)",35000,Seattle,35000,35000,35000.0,False,'WA',False,False,False,False
+196,Environmental Compliance Coordinator,        King County,"Seattle, WA",82326 - 104374,Seattle,82326,104374,93350.0,False,'WA',False,False,False,False
+197,Predoctoral Research Fellow,        Seattle Children's Hospital,"Seattle, WA 98101 (Downtown area)",36700 - 55000,Seattle,36700,55000,45850.0,False,'WA',False,False,False,False
+198,Certifying Scientist,    Lighthouse Recruiting,"Seattle, WA",65000 - 80000,Seattle,65000,80000,72500.0,False,'WA',False,False,False,False
+199,Software Development Engineer (Back End),    Laetus Recruitment,"Seattle, WA",120000 - 150000,Seattle,120000,150000,135000.0,True,'WA',True,False,False,False
+200,Associate Analytics Analyst - Liberty Mutual Surety,        Liberty Mutual,"Seattle, WA",58000 - 61000,Seattle,58000,61000,59500.0,False,'WA',False,False,False,False
+201,Sr. Global Device Manager,    All-In Analytics,"Seattle, WA",150000 - 175000,Seattle,150000,175000,162500.0,True,'WA',True,True,True,False
+202,Senior Research Scientist (Principal Investigator level),    Gibson - An Education Consulting &amp; Research Group,"Austin, TX 78746",110000 - 150000,Austin,110000,150000,130000.0,True,'TX',True,False,False,False
+203,Permitting Specialist,    JE Compliance,"Austin, TX 78701 (Downtown area)",40000 - 47000,Austin,40000,47000,43500.0,False,'TX',False,False,False,False
+204,Bioinformatics Specialist-Metagenomics/Proteomics,"        Signature Science, LLC","Austin, TX 78759 (Arboretum area)",90000,Austin,90000,90000,90000.0,False,'TX',False,False,False,False
+205,Computer Scientist/Software Engineer,"        Signature Science, LLC","Austin, TX 78759 (Arboretum area)",79000,Austin,79000,79000,79000.0,False,'TX',False,False,False,False
+206,JavaScript Developer,    Oscar Technology,"Austin, TX",120000,Austin,120000,120000,120000.0,True,'TX',False,False,False,False
+207,"Laboratory Supervisor, Microbiology (Days)",    Lighthouse Recruiting,"Austin, TX",80000 - 100000,Austin,80000,100000,90000.0,False,'TX',False,False,False,False
+208,Full Stack JavaScript Developer - MEAN stack,,"Austin, TX 78701 (Downtown area)",80000 - 120000,Austin,80000,120000,100000.0,False,'TX',False,False,False,False
+209,Post Doctoral Scholar,        Oregon Health &amp; Science University,"Portland, OR",47484,Portland,47484,47484,47484.0,False,'OR',False,False,False,False
+210,Director Data Science,        WSI Nationwide,"Portland, OR",160000 - 180000,Portland,160000,180000,170000.0,True,'OR',True,True,True,False
+211,Corporate Account Manager,    Acumen Executive Search,"Beaverton, OR 97006 (Triple Creek area)",100000,Portland,100000,100000,100000.0,False,'OR',False,False,False,False
+212,Digital Marketing (Data Scientist),"    Kennedy Unlimited Inc, Professional Staffing","Portland, OR",100000 - 130000,Portland,100000,130000,115000.0,True,'OR',False,False,False,False
+213,"Data Scientist - Machine Learning, NLP",        WSI Nationwide,"Portland, OR",120000 - 165000,Portland,120000,165000,142500.0,True,'OR',True,True,False,False
+214,Data Scientist,        Central Intelligence Agency,"Washington, DC",62338 - 119794,"Washington, DC",62338,119794,91066.0,False,'DC',False,False,False,False
+215,Data Scientist,        Workbridge Associates,"Washington, DC",100000 - 150000,"Washington, DC",100000,150000,125000.0,True,'DC',False,False,False,False
+216,Data &amp; Research Analyst,    The Council,"Washington, DC",80000 - 85000,"Washington, DC",80000,85000,82500.0,False,'DC',False,False,False,False
+217,Statistical Analyst,    MbSolutions Inc,"Arlington, VA",80000,"Washington, DC",80000,80000,80000.0,False,'VA',False,False,False,False
+218,Research Analyst,    American Society for Engineering Education (ASEE),"Washington, DC 20036 (Downtown area)",50000,"Washington, DC",50000,50000,50000.0,False,'DC',False,False,False,False
+219,NETWORK OPERATIONS RESEARCH ANALYST EAS,        United States Postal Service,"Washington, DC",66829 - 110664,"Washington, DC",66829,110664,88746.5,False,'DC',False,False,False,False
+220,Senior Data Scientist,    ZP Group,"Reston, VA 20190",180000 - 200000,"Washington, DC",180000,200000,190000.0,True,'VA',True,True,True,True
+221,Analytic Methodologist,        Central Intelligence Agency,"Washington, DC",53088 - 92814,"Washington, DC",53088,92814,72951.0,False,'DC',False,False,False,False
+222,Post-Doctoral Scientist,        University of Maryland,"College Park, MD",40000 - 45000,"Washington, DC",40000,45000,42500.0,False,'MD',False,False,False,False
+223,Machine Learning Data Engineer,        Jobspring Partners,"Washington, DC",100000 - 150000,"Washington, DC",100000,150000,125000.0,True,'DC',False,False,False,False
+224,"2017-04-01 Software Engineer Earning $196,000",    EMF Industries,"McLean, VA",196000,"Washington, DC",196000,196000,196000.0,True,'VA',True,True,True,True
+225,Front End Developer,    FlashX,"Silver Spring, MD",75000 - 105000,"Washington, DC",75000,105000,90000.0,False,'MD',False,False,False,False
+226,"Senior Software Engineer (Data Engineer, IoT)",        Jobspring Partners,"Washington, DC",110000 - 160000,"Washington, DC",110000,160000,135000.0,True,'DC',True,False,False,False
+227,Business Development/ Market Research Analyst,    Eyebrow Express,"Alexandria, VA 22314 (Southwest Quadrant area)",43200,"Washington, DC",43200,43200,43200.0,False,'VA',False,False,False,False
+228,Research Associate Level I (Process Development Dpt.),"    ProMetic BioTherapeutics, Inc. (PBT)","Rockville, MD",46000,"Washington, DC",46000,46000,46000.0,False,'MD',False,False,False,False
+229,Machine Learning Data Engineer (Manager),        Jobspring Partners,"Washington, DC",120000 - 160000,"Washington, DC",120000,160000,140000.0,True,'DC',True,False,False,False
+230,Apps Developer,        Central Intelligence Agency,"Washington, DC",58638 - 123234,"Washington, DC",58638,123234,90936.0,False,'DC',False,False,False,False
+231,Senior Credit Risk Transfer Research Analyst,    KVR Consultant,"Alexandria, VA",135000,"Washington, DC",135000,135000,135000.0,True,'VA',True,False,False,False
+232,Front End Engineer,        Workbridge Associates,"Arlington, VA 22201 (Lyon Village area)",140000,"Washington, DC",140000,140000,140000.0,True,'VA',True,False,False,False
+233,Research Assistant,"    Sirnaomics,Inc","Gaithersburg, MD 20879",28000 - 35000,"Washington, DC",28000,35000,31500.0,False,'MD',False,False,False,False
+234,Principal Environmental Engineer,        WSSC,"Laurel, MD 20707",74399 - 113574,"Washington, DC",74399,113574,93986.5,False,'MD',False,False,False,False
+235,JAVA Software Developer,"    Information Technology Coalition, Inc.","Greenbelt, MD",85000,"Washington, DC",85000,85000,85000.0,False,'MD',False,False,False,False
+236,OPIR Scientist - Laser Specialist 1,    TULKORP.,"Alexandria, VA",97000,"Washington, DC",97000,97000,97000.0,False,'VA',False,False,False,False
+237,Senior Systems Administrator,    Impact Research,"Columbia, MD 21044",75000 - 110000,"Washington, DC",75000,110000,92500.0,False,'MD',False,False,False,False
+238,Data Scientist,        Oliver James Associates,"New York, NY",160000,New York,160000,160000,160000.0,True,'NY',True,True,True,False
+239,Statistical Marketing Analyst,    DBD Staffing,"Pittsburgh, PA",45000 - 70000,Pittsburgh,45000,70000,57500.0,False,'PA',False,False,False,False
+240,Research Data Analyst,        Johns Hopkins University,"Baltimore, MD",43011 - 59217,Baltimore,43011,59217,51114.0,False,'MD',False,False,False,False
+241,Research Analyst,        University of Baltimore,"Baltimore, MD 21201 (Downtown area)",41400 - 55700,Baltimore,41400,55700,48550.0,False,'MD',False,False,False,False
+242,Sr. Research Data Analyst,        Johns Hopkins University,"Baltimore, MD",49957 - 68721,Baltimore,49957,68721,59339.0,False,'MD',False,False,False,False
+243,Research Analyst,        Howard Community College,"Columbia, MD",46332,Baltimore,46332,46332,46332.0,False,'MD',False,False,False,False
+244,Sr. Research Program Coordinator,        Johns Hopkins University,"Baltimore, MD",37040 - 50932,Baltimore,37040,50932,43986.0,False,'MD',False,False,False,False
+245,"Sr Data Scientist (Hadoop) - Duluth, Georgia","    Horn Solutions, Inc.","Houston, TX",105000,Houston,105000,105000,105000.0,False,'TX',False,False,False,False
+246,Postdoctoral Fellow Bioinformatics,        Texas A&amp;M University,"Houston, TX 77058 (Pasadena area)",65000,Houston,65000,65000,65000.0,False,'TX',False,False,False,False
+247,Data Visualization Research Specialist,    Northeastern University - Network Science Institut...,"Boston, MA",50000,Boston,50000,50000,50000.0,False,'MA',False,False,False,False
+248,Data Scientist,        Darwin Recruitment,"Boston, MA",100000 - 140000,Boston,100000,140000,120000.0,True,'MA',False,False,False,False
+249,Technical Data Analyst,    Sharp Action LLC,"Somerville, MA",60000 - 85000,Boston,60000,85000,72500.0,False,'MA',False,False,False,False
+250,"Senior Analyst, Advanced Analytics",        Liberty Mutual,"Boston, MA",73300 - 114900,Boston,73300,114900,94100.0,False,'MA',False,False,False,False
+251,Machine Learning Engineer,        Darwin Recruitment,"Boston, MA",150000 - 200000,Boston,150000,200000,175000.0,True,'MA',True,True,True,False
+252,"Analyst/Senior Analyst, Advanced Analytics",        Liberty Mutual,"Boston, MA",73300 - 114900,Boston,73300,114900,94100.0,False,'MA',False,False,False,False
+253,Sr. Quantitative Analyst,        Huxley Associates,"Boston, MA",200000,Boston,200000,200000,200000.0,True,'MA',True,True,True,True
+254,Machine Learning Engineer,        Jobspring Partners,"Boston, MA 02116 (South End area)",130000 - 165000,Boston,130000,165000,147500.0,True,'MA',True,True,False,False
+255,"Scientific Director, Oncology/ RNA Diagnostics",    TEC Group International,"Cambridge, MA",150000 - 200000,Boston,150000,200000,175000.0,True,'MA',True,True,True,False
+256,Senior Machine Learning Engineer,        Darwin Recruitment,"Boston, MA",150000 - 200000,Boston,150000,200000,175000.0,True,'MA',True,True,True,False
+257,Sr. Data Architect,    All-In Analytics,"Boston, MA",180000 - 200000,Boston,180000,200000,190000.0,True,'MA',True,True,True,True
+258,Research Analyst,"    Asset Recovery Advisors, Inc.","Newton, MA",30000 - 35000,Boston,30000,35000,32500.0,False,'MA',False,False,False,False
+259,Research Analyst III,        Commonwealth of Massachusetts,"Boston, MA",55017 - 78763,Boston,55017,78763,66890.0,False,'MA',False,False,False,False
+260,Logistics Technician,        Abcam,"Cambridge, MA 02139 (Area IV area)",38500,Boston,38500,38500,38500.0,False,"'MA', 'IV'",False,False,False,False
+261,"Software Engineers (Scala / Java / Python, Hadoop, Machine L...",        WinterWyman,"Boston, MA 02114 (Back Bay-Beacon Hill area)",120000,Boston,120000,120000,120000.0,True,'MA',False,False,False,False
+262,Entry Level Analytical Chemist,"    480 Biomedical, Inc.","Watertown, MA 02472",50000,Boston,50000,50000,50000.0,False,'MA',False,False,False,False
+263,E-mail Marketing Rockstar - Manager,    IntelyCare,"Quincy, MA",60000 - 80000,Boston,60000,80000,70000.0,False,'MA',False,False,False,False
+264,Clinical Laboratory Surveyor,        Commonwealth of Massachusetts,"Boston, MA",60096 - 87045,Boston,60096,87045,73570.5,False,'MA',False,False,False,False
+265,Market Research Analyst,    AP Staffing,"Boston, MA",34000 - 38000,Boston,34000,38000,36000.0,False,'MA',False,False,False,False
+266,SQL*Server Database Developer,"    Horizons Recruitment, Inc.","Boston, MA",120000 - 170000,Boston,120000,170000,145000.0,True,'MA',True,True,False,False
+267,Biostatisticians / Boston / Precision Medicine,    Invenia Resourcing,"Boston, MA",120000,Boston,120000,120000,120000.0,True,'MA',False,False,False,False
+268,Software Development Engineer,        WDS Global Partners LLC,"Boston, MA",130000 - 160000,Boston,130000,160000,145000.0,True,'MA',True,True,False,False
+269,Research Analyst - fintech startup,    Bison,"Boston, MA",45000,Boston,45000,45000,45000.0,False,'MA',False,False,False,False
+270,Quantitative Data Scientist,        Huxley Associates,"Boston, MA",175000,Boston,175000,175000,175000.0,True,'MA',True,True,True,False
+271,Quantitative Analyst or Manager Decision Sciences,        Analytic Recruiting,"Boston, MA",90000 - 130000,Boston,90000,130000,110000.0,True,'MA',False,False,False,False
+272,Laboratory Technician I - Forensic Biology,        Commonwealth of Massachusetts,"Maynard, MA",36381 - 48462,Boston,36381,48462,42421.5,False,'MA',False,False,False,False
+273,"Analytics Manager | PhD or MS - Computer Science, AI, Machin...",    TEEMA Solutions Group,"Newton, MA",120000 - 145000,Boston,120000,145000,132500.0,True,'MA',True,False,False,False
+274,"Lead Data Scientist (Tableau, RShiny, D3)",        Workbridge Associates,"Chicago, IL",130000,Chicago,130000,130000,130000.0,True,'IL',True,False,False,False
+275,Quantitative Risk Analyst,    Huxley Banking &amp; Financial Services,"Chicago, IL",90000,Chicago,90000,90000,90000.0,False,'IL',False,False,False,False
+276,Lead Data Scientist (Data Visualization),        Workbridge Associates,"Chicago, IL",110000 - 135000,Chicago,110000,135000,122500.0,True,'IL',False,False,False,False
+277,Environmental Soil Scientist,        Metropolitan Water Reclamation District of Greater...,"Chicago, IL",76035 - 115830,Chicago,76035,115830,95932.5,False,'IL',False,False,False,False
+278,Data Scientist (Machine Learning),        Workbridge Associates,"Chicago, IL",130000,Chicago,130000,130000,130000.0,True,'IL',True,False,False,False
+279,Senior Safety Scientist,    Das Consulting,"San Francisco, CA",225000,San Francisco,225000,225000,225000.0,True,'CA',True,True,True,True
+280,Research Data Analyst 2,        University of California Berkeley,"Berkeley, CA",52000,San Francisco,52000,52000,52000.0,False,'CA',False,False,False,False
+281,Analytics Manager (Machine Learning),"    Kennedy Unlimited Inc, Professional Staffing","San Francisco, CA",120000 - 150000,San Francisco,120000,150000,135000.0,True,'CA',True,False,False,False
+282,Senior Research Engineer (Machine Learning),        Workbridge Associates,"San Francisco, CA",130000 - 170000,San Francisco,130000,170000,150000.0,True,'CA',True,True,True,False
+283,Lead Data Scientist - Engagement &amp; Growth,    Harnham,"San Francisco, CA",220000,San Francisco,220000,220000,220000.0,True,'CA',True,True,True,True
+284,Director of Data Science,    Harnham,"San Francisco, CA",230000,San Francisco,230000,230000,230000.0,True,'CA',True,True,True,True
+285,Algorithm Software Sequencing Scientist,    PLE,"San Francisco Bay Area, CA",120000 - 150000,San Francisco,120000,150000,135000.0,True,'CA',True,False,False,False
+286,Lecturer - Sutardja Center for Entrepreneurship &amp; Technology,        University of California Berkeley,"Berkeley, CA",58945 - 158270,San Francisco,58945,158270,108607.5,False,'CA',False,False,False,False
+287,Senior DevOps Engineer,        LT,"San Francisco Bay Area, CA",190000,San Francisco,190000,190000,190000.0,True,'CA',True,True,True,True
+288,HEOR RWE SAS Programmer / Analyst,        Barrington James,"New York, NY 10005 (Financial District area)",110000,New York,110000,110000,110000.0,True,'NY',False,False,False,False
+289,"Project Associate, EQUAL",    NYU Global TIES for Children,"New York, NY",52000,New York,52000,52000,52000.0,False,'NY',False,False,False,False
+290,Frontend Engineer,    605,"New York, NY",95000 - 130000,New York,95000,130000,112500.0,True,'NY',False,False,False,False
+291,"Environmental Analyst, Bureau of Environmental Surveillance...",        DEPT OF HEALTH/MENTAL HYGIENE,"Manhattan, NY",70286 - 87295,New York,70286,87295,78790.5,False,'NY',False,False,False,False
+292,Lead Data Scientist,    Averity,"New York, NY",120000 - 140000,New York,120000,140000,130000.0,True,'NY',True,False,False,False
+293,Senior Data Scientist ( FinTech / Fraud / Python / R / Machi...,    Venturi Ltd,"New York, NY",100000 - 135000,New York,100000,135000,117500.0,True,'NY',False,False,False,False
+294,Environmental Protection Project Manager,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",70286 - 81000,New York,70286,81000,75643.0,False,'NY',False,False,False,False
+295,NLP Scientist-R&amp;D,        WSI Nationwide,"New York, NY",100000 - 180000,New York,100000,180000,140000.0,True,'NY',True,False,False,False
+296,"Data Manager – Researcher, Bureau of Children, Youth &amp; Famil...",        DEPT OF HEALTH/MENTAL HYGIENE,"New York, NY",70286 - 80829,New York,70286,80829,75557.5,False,'NY',False,False,False,False
+297,City Research Scientist,    DEPT OF ENVIRONMENT PROTECTION,"New York, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+298,"Panel Maintenance Analyst, World Trade Center Health Registr...",        DEPT OF HEALTH/MENTAL HYGIENE,"Manhattan, NY",59708 - 72246,New York,59708,72246,65977.0,False,'NY',False,False,False,False
+299,Quantitative Analyst for Global Quant Fund,    Averity,"New York, NY",150000 - 300000,New York,150000,300000,225000.0,True,'NY',True,True,True,True
+300,Field Scientist,        Miller Advertising,"New York, NY",59000 - 65000,New York,59000,65000,62000.0,False,'NY',False,False,False,False
+301,"Quantitative Business Analyst, AVP - NYC",        Huxley Associates,"New York, NY 10020 (Midtown area)",135000,New York,135000,135000,135000.0,True,'NY',True,False,False,False
+302,Business Intelligence Engineer,    Broker Genius,"Valley Stream, NY",60000,New York,60000,60000,60000.0,False,'NY',False,False,False,False
+303,"Data Analyst, World Trade Center Health Registry",        DEPT OF HEALTH/MENTAL HYGIENE,"Manhattan, NY",70286 - 88213,New York,70286,88213,79249.5,False,'NY',False,False,False,False
+304,Analytics Manager,        Smith Hanley Associates,"Paramus, NJ",130000 - 150000,New York,130000,150000,140000.0,True,'NJ',True,False,False,False
+305,Innovative Ad-Tech Company Seeks a Senior Fullstack Javascri...,        Jobspring Partners,"New York, NY 10010 (Gramercy area)",145000,New York,145000,145000,145000.0,True,'NY',True,True,False,False
+306,"Research Scientist for Data Integrity, World Trade Center He...",        DEPT OF HEALTH/MENTAL HYGIENE,"Manhattan, NY",78630 - 97200,New York,78630,97200,87915.0,False,'NY',False,False,False,False
+307,Data Scientist,        Jobspring Partners,"Philadelphia, PA 19102 (City Center West area)",160000,Philadelphia,160000,160000,160000.0,True,'PA',True,True,True,False
+308,Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...,    Averity,"Philadelphia, PA",200000 - 300000,Philadelphia,200000,300000,250000.0,True,'PA',True,True,True,True
+309,Scientist,    HumanEdge,"Cherry Hill, NJ",85000 - 110000,Philadelphia,85000,110000,97500.0,False,'NJ',False,False,False,False
+310,Angular Software Developer,        Jobspring Partners,"Horsham, PA 19044",100000,Philadelphia,100000,100000,100000.0,False,'PA',False,False,False,False
+311,Data Scientist (Consumer Loans),    Lendmart,"Los Angeles, CA 90036",55000,Los Angeles,55000,55000,55000.0,False,'CA',False,False,False,False
+312,Research Scientist,        Arete Associates,"Northridge, CA 91324",100000 - 109000,Los Angeles,100000,109000,104500.0,False,'CA',False,False,False,False
+313,"Sr. Data Scientist Needed for Top LA Start-Up, Huge Opportun...",    ConSol Partners,"Los Angeles, CA",160000,Los Angeles,160000,160000,160000.0,True,'CA',True,True,True,False
+314,"Market Research Analyst, Automotive Electronics",    Parallel Partners,"Torrance, CA",60000 - 75000,Los Angeles,60000,75000,67500.0,False,'CA',False,False,False,False
+315,Lead Android Developer,        LT,"Los Angeles, CA",200000,Los Angeles,200000,200000,200000.0,True,'CA',True,True,True,True
+316,Ad Operations Manager,        LT,"Los Angeles, CA",85000 - 90000,Los Angeles,85000,90000,87500.0,False,'CA',False,False,False,False
+317,Biostatistician,        Johns Hopkins University,"Baltimore, MD",49957 - 68721,Baltimore,49957,68721,59339.0,False,'MD',False,False,False,False
+318,BI Analyst / Data Scientist,    WHO... a staffing company,"Baltimore, MD 21201 (Downtown area)",100000 - 130000,Baltimore,100000,130000,115000.0,True,'MD',False,False,False,False
+319,Financial Manager,        Johns Hopkins University,"Baltimore, MD",65798 - 90411,Baltimore,65798,90411,78104.5,False,'MD',False,False,False,False
+320,Sr. Institutional Research Analyst,        Johns Hopkins University,"Baltimore, MD",49957 - 68721,Baltimore,49957,68721,59339.0,False,'MD',False,False,False,False
+321,Senior Systems Administrator,    Impact Research,"Columbia, MD 21044",75000 - 110000,Baltimore,75000,110000,92500.0,False,'MD',False,False,False,False
+322,Principal Environmental Engineer,        WSSC,"Laurel, MD 20707",74399 - 113574,Baltimore,74399,113574,93986.5,False,'MD',False,False,False,False
+323,Pediatric Research Nurse,        Johns Hopkins University,"Baltimore, MD",57999 - 79809,Baltimore,57999,79809,68904.0,False,'MD',False,False,False,False
+324,PeopleSoft Developer with TS/SCI FSP Required,    Fawkes IDM,"Fort Meade, MD",100000 - 130000,Baltimore,100000,130000,115000.0,True,'MD',False,False,False,False
+325,Research Laboratory Technician,    University of Miami,"Coral Gables, FL",27400 - 49400,Miami,27400,49400,38400.0,False,'FL',False,False,False,False
+326,Data Scientist - Supply Chain,        Analytic Recruiting,"Atlanta, GA",70000 - 145000,Atlanta,70000,145000,107500.0,False,'GA',False,False,False,False
+327,Real Estate Research Analyst,    Jumpvine,"Roswell, GA",55000,Atlanta,55000,55000,55000.0,False,'GA',False,False,False,False
+328,Business Intelligence Scientist,    All-In Analytics,"Seattle, WA",100000 - 150000,Seattle,100000,150000,125000.0,True,'WA',False,False,False,False
+329,Software Development Engineer (Back End) (Local candidates o...,    Laetus Recruitment,"Seattle, WA",120000 - 150000,Seattle,120000,150000,135000.0,True,'WA',True,False,False,False
+330,Bioinformatics Analyst,    Lighthouse Recruiting,"Seattle, WA",80000 - 90000,Seattle,80000,90000,85000.0,False,'WA',False,False,False,False
+331,Variant Scientist (Remote),    Lighthouse Recruiting,"Seattle, WA",90000 - 100000,Seattle,90000,100000,95000.0,False,'WA',False,False,False,False
+332,Research Scientist,    Senseye,"Austin, TX",75000 - 90000,Austin,75000,90000,82500.0,False,'TX',False,False,False,False
+333,Postdoctoral Fellow,        Oregon Health &amp; Science University,"Portland, OR",43692,Portland,43692,43692,43692.0,False,'OR',False,False,False,False
+334,Senior Research &amp; Policy Analyst,    Population Action International (PAI),"Washington, DC",65000 - 80000,"Washington, DC",65000,80000,72500.0,False,'DC',False,False,False,False
+335,Senior Product Manager,    Catalist,"Washington, DC",70000 - 100000,"Washington, DC",70000,100000,85000.0,False,'DC',False,False,False,False
+336,Research Development Engineer/Scientist,    TULK llc,"Alexandria, VA",160000,"Washington, DC",160000,160000,160000.0,True,'VA',True,True,True,False
+337,Research Analyst - Law Firm,    Fawkes IDM,"Washington, DC",70000 - 80000,"Washington, DC",70000,80000,75000.0,False,'DC',False,False,False,False
+338,Data Scientist (Math background),        Jobspring Partners,"Washington, DC",150000 - 250000,"Washington, DC",150000,250000,200000.0,True,'DC',True,True,True,True
+339,Big Data/IoT Software Engineer,        Jobspring Partners,"Washington, DC",100000 - 160000,"Washington, DC",100000,160000,130000.0,True,'DC',True,False,False,False
+340,Data Scientist,        Workbridge Associates,"Washington, DC",100000 - 150000,"Bethesda, MD",100000,150000,125000.0,True,'DC',False,False,False,False
+341,Data Scientist,"    Gunther Douglas, Inc.","Washington, DC",110000 - 140000,"Bethesda, MD",110000,140000,125000.0,True,'DC',False,False,False,False
+342,Data &amp; Research Analyst,    The Council,"Washington, DC",80000 - 85000,"Bethesda, MD",80000,85000,82500.0,False,'DC',False,False,False,False
+343,Senior Research &amp; Policy Analyst,    Population Action International (PAI),"Washington, DC",65000 - 80000,"Bethesda, MD",65000,80000,72500.0,False,'DC',False,False,False,False
+344,Research Analyst,        Howard Community College,"Columbia, MD",46332,"Bethesda, MD",46332,46332,46332.0,False,'MD',False,False,False,False
+345,Software Engineer,    FlashX,"Silver Spring, MD",80000 - 120000,"Bethesda, MD",80000,120000,100000.0,False,'MD',False,False,False,False
+346,Senior Data Scientist,    ZP Group,"Reston, VA 20190",180000 - 200000,"Bethesda, MD",180000,200000,190000.0,True,'VA',True,True,True,True
+347,Senior Product Manager,    Catalist,"Washington, DC",70000 - 100000,"Bethesda, MD",70000,100000,85000.0,False,'DC',False,False,False,False
+348,Credit Risk Transfer Research Analyst,    iiTS,"Washington, DC 20005 (Logan Circle area)",140000,"Bethesda, MD",140000,140000,140000.0,True,'DC',True,False,False,False
+349,Front End Developer,    FlashX,"Silver Spring, MD",75000 - 105000,"Bethesda, MD",75000,105000,90000.0,False,'MD',False,False,False,False
+350,Machine Learning Data Engineer,        Jobspring Partners,"Washington, DC",100000 - 150000,"Bethesda, MD",100000,150000,125000.0,True,'DC',False,False,False,False
+351,SVP Big Data and Analytics,    Harnham,"Washington, DC",250000,"Bethesda, MD",250000,250000,250000.0,True,'DC',True,True,True,True
+352,Research Analyst - Law Firm,    Fawkes IDM,"Washington, DC",70000 - 80000,"Bethesda, MD",70000,80000,75000.0,False,'DC',False,False,False,False
+353,Data Scientist (Math background),        Jobspring Partners,"Washington, DC",150000 - 250000,"Bethesda, MD",150000,250000,200000.0,True,'DC',True,True,True,True
+354,Big Data/IoT Software Engineer,        Jobspring Partners,"Washington, DC",100000 - 160000,"Bethesda, MD",100000,160000,130000.0,True,'DC',True,False,False,False
+355,Research Assistant,"    Sirnaomics,Inc","Gaithersburg, MD 20879",28000 - 35000,"Bethesda, MD",28000,35000,31500.0,False,'MD',False,False,False,False
+356,Senior Systems Administrator,    Impact Research,"Columbia, MD 21044",75000 - 110000,"Bethesda, MD",75000,110000,92500.0,False,'MD',False,False,False,False
+357,Machine Learning Data Engineer (Manager),        Jobspring Partners,"Washington, DC",120000 - 160000,"Bethesda, MD",120000,160000,140000.0,True,'DC',True,False,False,False
+358,VP of Advanced Analytics,    Harnham,"Washington, DC",250000,"Bethesda, MD",250000,250000,250000.0,True,'DC',True,True,True,True
+359,Apps Developer,        Central Intelligence Agency,"Washington, DC",58638 - 123234,"Bethesda, MD",58638,123234,90936.0,False,'DC',False,False,False,False
+360,Senior Credit Risk Transfer Research Analyst,    KVR Consultant,"Alexandria, VA",135000,"Bethesda, MD",135000,135000,135000.0,True,'VA',True,False,False,False
+361,Data Scientist,    ZP Group,"Raleigh, NC 27607 (Northwest area)",90000 - 120000,"Morrisville, NC",90000,120000,105000.0,False,'NC',False,False,False,False
+362,Data Analyst,    ZP Group,"Raleigh, NC 27617 (Central area)",90000 - 120000,"Morrisville, NC",90000,120000,105000.0,False,'NC',False,False,False,False
+363,Research Specialist,        University of North Carolina,"Chapel Hill, NC 27517",39469 - 48240,"Morrisville, NC",39469,48240,43854.5,False,'NC',False,False,False,False
+364,"Analyst, Prospect Research",        University of North Carolina,"Chapel Hill, NC 27517",33660 - 40000,"Morrisville, NC",33660,40000,36830.0,False,'NC',False,False,False,False
+365,Data Scientist / Machine Learning,    ZP Group,"Durham, NC",105000 - 130000,"Morrisville, NC",105000,130000,117500.0,True,'NC',False,False,False,False
+366,Research Technician,        University of North Carolina,"Chapel Hill, NC 27517",32459 - 44832,"Morrisville, NC",32459,44832,38645.5,False,'NC',False,False,False,False
+367,Social/Clinical Research Associate,        North Carolina State University,"Raleigh, NC",30206 - 58006,"Morrisville, NC",30206,58006,44106.0,False,'NC',False,False,False,False
+368,Research Technician_Dohlman Lab,        University of North Carolina,"Chapel Hill, NC 27517",31392 - 44832,"Morrisville, NC",31392,44832,38112.0,False,'NC',False,False,False,False
+369,Accounting Technician,        University of North Carolina,"Chapel Hill, NC 27517",25900 - 38646,"Morrisville, NC",25900,38646,32273.0,False,'NC',False,False,False,False
+370,Research Technician_Calabrese Lab,        University of North Carolina,"Chapel Hill, NC 27517",31492 - 44832,"Morrisville, NC",31492,44832,38162.0,False,'NC',False,False,False,False
+371,Data Scientist,    Keyo,"Palo Alto, CA",120000 - 200000,"Palo Alto, CA",120000,200000,160000.0,True,'CA',True,True,True,False
+372,Data Scientist,        Jobspring Partners,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",175000,"Palo Alto, CA",175000,175000,175000.0,True,'CA',True,True,True,False
+373,Data Scientist,    ITStaff Technical Resources,"Santa Clara, CA",85000 - 120000,"Palo Alto, CA",85000,120000,102500.0,False,'CA',False,False,False,False
+374,"Senior Scientist III, Pre-Clinical Safety",    EPM Scientific,"Redwood City, CA",140000,"Palo Alto, CA",140000,140000,140000.0,True,'CA',True,False,False,False
+375,"Principal Software Engineer, Data Science",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Palo Alto, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+376,Big Data Engineer,        Jobspring Partners,"Mountain View, CA 94043",170000,"Palo Alto, CA",170000,170000,170000.0,True,'CA',True,True,True,False
+377,Senior Data Scientist,        Workbridge Associates,"Mountain View, CA 94039",200000,"Palo Alto, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+378,Data Engineer,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 165000,"Palo Alto, CA",130000,165000,147500.0,True,'CA',True,True,False,False
+379,Machine Learning Engineer/Scientist,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",150000 - 175000,"Palo Alto, CA",150000,175000,162500.0,True,'CA',True,True,True,False
+380,"Principle Scientist, Data Science, System integration",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Palo Alto, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+381,Planning and Research Analyst (HSI-Grant Funded),        San Mateo County Community College District,"San Mateo, CA",97116,"Palo Alto, CA",97116,97116,97116.0,False,'CA',False,False,False,False
+382,SENIOR ARTICIAL INTELLIGENCE (AI)/ DATA SCIENTIST,"    TW STAFFING SOLUTIONS,INC","San Jose, CA",150000 - 200000,"Palo Alto, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+383,Software Engineer/Machine Learning,        LB &amp; Associates,"San Jose, CA",150000 - 200000,"Palo Alto, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+384,Machine Learning Infrastructure Engineer,        Jobspring Partners,"Palo Alto, CA 94301 (Professorville area)",180000,"Palo Alto, CA",180000,180000,180000.0,True,'CA',True,True,True,True
+385,Machine Learning Engineer - Computer Vision,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",190000,"Palo Alto, CA",190000,190000,190000.0,True,'CA',True,True,True,True
+386,Machine Learning Algorithm Engineer,    3coast,"San Mateo, CA",120000 - 180000,"Palo Alto, CA",120000,180000,150000.0,True,'CA',True,True,True,False
+387,"Data Scientist II, Sequencing",    Enterprise Select,"Pleasanton, CA 94588",120000,"Palo Alto, CA",120000,120000,120000.0,True,'CA',False,False,False,False
+388,Data Scientist,    NxT Level,"Seattle, WA",125000 - 160000,"Redmond, WA",125000,160000,142500.0,True,'WA',True,True,False,False
+389,Data Engineer/Scientist,    Employment Trust,"Bellevue, WA",100000 - 135000,"Redmond, WA",100000,135000,117500.0,True,'WA',False,False,False,False
+390,Software Engineer - Machine Learning,    NxT Level,"Seattle, WA",100000 - 135000,"Redmond, WA",100000,135000,117500.0,True,'WA',False,False,False,False
+391,Internet Research Analyst,"    G2 Web Services, LLC","Bellevue, WA 98004 (Downtown area)",35000,"Redmond, WA",35000,35000,35000.0,False,'WA',False,False,False,False
+392,Business Intelligence Scientist,    All-In Analytics,"Seattle, WA",100000 - 150000,"Redmond, WA",100000,150000,125000.0,True,'WA',False,False,False,False
+393,Environmental Compliance Coordinator,        King County,"Seattle, WA",82326 - 104374,"Redmond, WA",82326,104374,93350.0,False,'WA',False,False,False,False
+394,Senior Data Scientist,        Smith Hanley Associates,"Seattle, WA",155000 - 165000,"Redmond, WA",155000,165000,160000.0,True,'WA',True,True,True,False
+395,Software Development Engineer (Back End) (Local candidates o...,    Laetus Recruitment,"Seattle, WA",120000 - 150000,"Redmond, WA",120000,150000,135000.0,True,'WA',True,False,False,False
+396,Certifying Scientist,    Lighthouse Recruiting,"Seattle, WA",65000 - 80000,"Redmond, WA",65000,80000,72500.0,False,'WA',False,False,False,False
+397,Predoctoral Research Fellow,        Seattle Children's Hospital,"Seattle, WA 98101 (Downtown area)",36700 - 55000,"Redmond, WA",36700,55000,45850.0,False,'WA',False,False,False,False
+398,Associate Analytics Analyst - Liberty Mutual Surety,        Liberty Mutual,"Seattle, WA",58000 - 61000,"Redmond, WA",58000,61000,59500.0,False,'WA',False,False,False,False
+399,Bioinformatics Analyst,    Lighthouse Recruiting,"Seattle, WA",80000 - 90000,"Redmond, WA",80000,90000,85000.0,False,'WA',False,False,False,False
+400,Variant Scientist (Remote),    Lighthouse Recruiting,"Seattle, WA",90000 - 100000,"Redmond, WA",90000,100000,95000.0,False,'WA',False,False,False,False
+401,Data Scientist,    Keyo,"Palo Alto, CA",120000 - 200000,"Mountain View, CA",120000,200000,160000.0,True,'CA',True,True,True,False
+402,Data Scientist,        Jobspring Partners,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",175000,"Mountain View, CA",175000,175000,175000.0,True,'CA',True,True,True,False
+403,Data Scientist,    ITStaff Technical Resources,"Santa Clara, CA",85000 - 120000,"Mountain View, CA",85000,120000,102500.0,False,'CA',False,False,False,False
+404,"Principal Software Engineer, Data Science",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Mountain View, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+405,"Senior Scientist III, Pre-Clinical Safety",    EPM Scientific,"Redwood City, CA",140000,"Mountain View, CA",140000,140000,140000.0,True,'CA',True,False,False,False
+406,Principal Data Scientist,    ITStaff Technical Resources,"Santa Clara, CA",100000 - 150000,"Mountain View, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+407,Big Data Engineer,        Jobspring Partners,"Mountain View, CA 94043",170000,"Mountain View, CA",170000,170000,170000.0,True,'CA',True,True,True,False
+408,Senior Data Scientist,        Workbridge Associates,"Mountain View, CA 94039",200000,"Mountain View, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+409,Data Engineer,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 165000,"Mountain View, CA",130000,165000,147500.0,True,'CA',True,True,False,False
+410,Machine Learning Engineer/Scientist,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",150000 - 175000,"Mountain View, CA",150000,175000,162500.0,True,'CA',True,True,True,False
+411,"Principal Data Scientist, Sequencing",    Enterprise Select,"Santa Clara, CA 95050",150000,"Mountain View, CA",150000,150000,150000.0,True,'CA',True,True,True,False
+412,Lead Data Scientist,    3coast,"San Mateo, CA",130000 - 160000,"Mountain View, CA",130000,160000,145000.0,True,'CA',True,True,False,False
+413,Software Engineer/Machine Learning,        LB &amp; Associates,"San Jose, CA",150000 - 200000,"Mountain View, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+414,SENIOR ARTICIAL INTELLIGENCE (AI)/ DATA SCIENTIST,"    TW STAFFING SOLUTIONS,INC","San Jose, CA",150000 - 200000,"Mountain View, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+415,Planning and Research Analyst (HSI-Grant Funded),        San Mateo County Community College District,"San Mateo, CA",97116,"Mountain View, CA",97116,97116,97116.0,False,'CA',False,False,False,False
+416,Mid-Level QA Engineer,        Workbridge Associates,"San Jose, CA 95113 (Downtown area)",100000,"Mountain View, CA",100000,100000,100000.0,False,'CA',False,False,False,False
+417,Site Reliability Engineer,    MountainView Tech Staffing,"San Mateo, CA",120000 - 140000,"Mountain View, CA",120000,140000,130000.0,True,'CA',True,False,False,False
+418,Bioinformatics Engineer,    ITStaff Technical Resources,"Santa Clara, CA",100000 - 140000,"Mountain View, CA",100000,140000,120000.0,True,'CA',False,False,False,False
+419,"Data Scientist II, Sequencing",    Enterprise Select,"Pleasanton, CA 94588",120000,"Mountain View, CA",120000,120000,120000.0,True,'CA',False,False,False,False
+420,Senior Machine Learning Data Scientist,        Workbridge Associates,"Pleasanton, CA 94588",200000,"Mountain View, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+421,STAFF DATA SCIENTIST / DEEP LEARNING,    TERADEEP INC.,"Campbell, CA",120000 - 160000,"Mountain View, CA",120000,160000,140000.0,True,'CA',True,False,False,False
+422,Mid-Level Data Scientist,        Workbridge Associates,"Menlo Park, CA",200000,"Mountain View, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+423,Data Scientist - Growth Team (Healthcare Startup),        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 180000,"Mountain View, CA",130000,180000,155000.0,True,'CA',True,True,True,False
+424,Quantitative Analyst,    Montgomery Assets,"Los Angeles, CA",97000,"El Segundo, CA",97000,97000,97000.0,False,'CA',False,False,False,False
+425,Jr. Data Scientist,    FullDeck,"Los Angeles, CA",40000 - 60000,"El Segundo, CA",40000,60000,50000.0,False,'CA',False,False,False,False
+426,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",        Los Angeles County Department of Human Resources,"Los Angeles, CA",76804 - 100726,"El Segundo, CA",76804,100726,88765.0,False,'CA',False,False,False,False
+427,scientist,    Liberos LLC,"Los Angeles, CA",50000,"El Segundo, CA",50000,50000,50000.0,False,'CA',False,False,False,False
+428,Lead Data Scientist,    HERO.jobs,"Los Angeles, CA",160000,"El Segundo, CA",160000,160000,160000.0,True,'CA',True,True,True,False
+429,Senior Data Scientist,    Elevano,"Los Angeles, CA",140000 - 180000,"El Segundo, CA",140000,180000,160000.0,True,'CA',True,True,True,False
+430,Investigations &amp; Research Analyst,        Gavin de Becker &amp; Associates,"Beverly Hills, CA",40000 - 45000,"El Segundo, CA",40000,45000,42500.0,False,'CA',False,False,False,False
+431,"Market Research Analyst, Automotive Electronics",    Parallel Partners,"Torrance, CA",60000 - 75000,"El Segundo, CA",60000,75000,67500.0,False,'CA',False,False,False,False
+432,Data Scientist (Consumer Loans),    Lendmart,"Los Angeles, CA 90036",55000,"El Segundo, CA",55000,55000,55000.0,False,'CA',False,False,False,False
+433,Data Entry &amp; Analysis Specialist,    FullDeck,"Los Angeles, CA",30000 - 45000,"El Segundo, CA",30000,45000,37500.0,False,'CA',False,False,False,False
+434,Senior iOS Developer,        LT,"Los Angeles, CA",170000,"El Segundo, CA",170000,170000,170000.0,True,'CA',True,True,True,False
+435,SUPERVISING CLINICAL LABORATORY SCIENTIST II,        Los Angeles County Department of Human Resources,"Los Angeles, CA",79884 - 104772,"El Segundo, CA",79884,104772,92328.0,False,'CA',False,False,False,False
+436,Principal Data Scientist,    Harnham,"Los Angeles, CA",160000,"El Segundo, CA",160000,160000,160000.0,True,'CA',True,True,True,False
+437,Research Scientist,        Arete Associates,"Northridge, CA 91324",100000 - 109000,"El Segundo, CA",100000,109000,104500.0,False,'CA',False,False,False,False
+438,Computer Vision Data Scientist,    MACP Los Angeles,"Los Angeles, CA",185000,"El Segundo, CA",185000,185000,185000.0,True,'CA',True,True,True,True
+439,Lead Android Developer,        LT,"Los Angeles, CA",190000,"El Segundo, CA",190000,190000,190000.0,True,'CA',True,True,True,True
+440,LC/MS Clinical Laboratory Scientist,    Lighthouse Recruiting,"Pasadena, CA",80000 - 110000,"El Segundo, CA",80000,110000,95000.0,False,'CA',False,False,False,False
+441,Data Scientist,    Workpop,"Santa Monica, CA",80000,"El Segundo, CA",80000,80000,80000.0,False,'CA',False,False,False,False
+442,Statistical Analyst,    MbSolutions Inc,"Arlington, VA",80000,"Herndon, VA",80000,80000,80000.0,False,'VA',False,False,False,False
+443,Data Scientist,        Workbridge Associates,"Washington, DC",100000 - 150000,"Herndon, VA",100000,150000,125000.0,True,'DC',False,False,False,False
+444,Criminal Patronage Network (CPN) Research Analyst / Advisor,    Quiet Professionals LLC,"Reston, VA",180000,"Herndon, VA",180000,180000,180000.0,True,'VA',True,True,True,True
+445,Data Scientist,"    Gunther Douglas, Inc.","Washington, DC",110000 - 140000,"Herndon, VA",110000,140000,125000.0,True,'DC',False,False,False,False
+446,Data &amp; Research Analyst,    The Council,"Washington, DC",80000 - 85000,"Herndon, VA",80000,85000,82500.0,False,'DC',False,False,False,False
+447,Senior Research &amp; Policy Analyst,    Population Action International (PAI),"Washington, DC",65000 - 80000,"Herndon, VA",65000,80000,72500.0,False,'DC',False,False,False,False
+448,Research Analyst,    American Society for Engineering Education (ASEE),"Washington, DC 20036 (Downtown area)",50000,"Herndon, VA",50000,50000,50000.0,False,'DC',False,False,False,False
+449,Senior Product Manager,    Catalist,"Washington, DC",70000 - 100000,"Herndon, VA",70000,100000,85000.0,False,'DC',False,False,False,False
+450,NETWORK OPERATIONS RESEARCH ANALYST EAS,        United States Postal Service,"Washington, DC",66829 - 110664,"Herndon, VA",66829,110664,88746.5,False,'DC',False,False,False,False
+451,Credit Risk Transfer Research Analyst,    iiTS,"Washington, DC 20005 (Logan Circle area)",140000,"Herndon, VA",140000,140000,140000.0,True,'DC',True,False,False,False
+452,Analytic Methodologist,        Central Intelligence Agency,"Washington, DC",53088 - 92814,"Herndon, VA",53088,92814,72951.0,False,'DC',False,False,False,False
+453,Research Development Engineer/Scientist,    TULK llc,"Alexandria, VA",160000,"Herndon, VA",160000,160000,160000.0,True,'VA',True,True,True,False
+454,Software Engineer,    FlashX,"Silver Spring, MD",80000 - 120000,"Herndon, VA",80000,120000,100000.0,False,'MD',False,False,False,False
+455,Machine Learning Data Engineer,        Jobspring Partners,"Washington, DC",100000 - 150000,"Herndon, VA",100000,150000,125000.0,True,'DC',False,False,False,False
+456,Post-Doctoral Scientist,        University of Maryland,"College Park, MD",40000 - 45000,"Herndon, VA",40000,45000,42500.0,False,'MD',False,False,False,False
+457,Data Scientist (Math background),        Jobspring Partners,"Washington, DC",150000 - 250000,"Herndon, VA",150000,250000,200000.0,True,'DC',True,True,True,True
+458,"Senior Software Engineer (Data Engineer, IoT)",        Jobspring Partners,"Washington, DC",110000 - 160000,"Herndon, VA",110000,160000,135000.0,True,'DC',True,False,False,False
+459,Front End Developer,    FlashX,"Silver Spring, MD",75000 - 105000,"Herndon, VA",75000,105000,90000.0,False,'MD',False,False,False,False
+460,Business Development/ Market Research Analyst,    Eyebrow Express,"Alexandria, VA 22314 (Southwest Quadrant area)",43200,"Herndon, VA",43200,43200,43200.0,False,'VA',False,False,False,False
+461,Data Architect,        TEKSystems,"Falls Church, VA",100000 - 140000,"Herndon, VA",100000,140000,120000.0,True,'VA',False,False,False,False
+462,Big Data/IoT Software Engineer,        Jobspring Partners,"Washington, DC",100000 - 160000,"Herndon, VA",100000,160000,130000.0,True,'DC',True,False,False,False
+463,Research Associate Level I (Process Development Dpt.),"    ProMetic BioTherapeutics, Inc. (PBT)","Rockville, MD",46000,"Herndon, VA",46000,46000,46000.0,False,'MD',False,False,False,False
+464,VP of Advanced Analytics,    Harnham,"Washington, DC",250000,"Herndon, VA",250000,250000,250000.0,True,'DC',True,True,True,True
+465,Research Assistant,"    Sirnaomics,Inc","Gaithersburg, MD 20879",28000 - 35000,"Herndon, VA",28000,35000,31500.0,False,'MD',False,False,False,False
+466,Apps Developer,        Central Intelligence Agency,"Washington, DC",58638 - 123234,"Herndon, VA",58638,123234,90936.0,False,'DC',False,False,False,False
+467,Data Scientist,    Keyo,"Palo Alto, CA",120000 - 200000,"Menlo Park, CA",120000,200000,160000.0,True,'CA',True,True,True,False
+468,Data Scientist,        Jobspring Partners,"Palo Alto, CA 94303 (Duveneck-Saint Francis area)",175000,"Menlo Park, CA",175000,175000,175000.0,True,'CA',True,True,True,False
+469,"Senior Scientist III, Pre-Clinical Safety",    EPM Scientific,"Redwood City, CA",140000,"Menlo Park, CA",140000,140000,140000.0,True,'CA',True,False,False,False
+470,"Principal Software Engineer, Data Science",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Menlo Park, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+471,Associate Data Scientist,    Harnham,"San Mateo, CA",130000,"Menlo Park, CA",130000,130000,130000.0,True,'CA',True,False,False,False
+472,Big Data Engineer,        Jobspring Partners,"Mountain View, CA 94043",170000,"Menlo Park, CA",170000,170000,170000.0,True,'CA',True,True,True,False
+473,Senior Data Scientist,        Workbridge Associates,"Mountain View, CA 94039",200000,"Menlo Park, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+474,Planning and Research Analyst (HSI-Grant Funded),        San Mateo County Community College District,"San Mateo, CA",97116,"Menlo Park, CA",97116,97116,97116.0,False,'CA',False,False,False,False
+475,"Principle Scientist, Data Science, System integration",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Menlo Park, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+476,Data Engineer,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 165000,"Menlo Park, CA",130000,165000,147500.0,True,'CA',True,True,False,False
+477,Machine Learning Engineer/Scientist,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",150000 - 175000,"Menlo Park, CA",150000,175000,162500.0,True,'CA',True,True,True,False
+478,Software Engineer/Machine Learning,        LB &amp; Associates,"San Jose, CA",150000 - 200000,"Menlo Park, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+479,Mid-Level QA Engineer,        Workbridge Associates,"San Jose, CA 95113 (Downtown area)",100000,"Menlo Park, CA",100000,100000,100000.0,False,'CA',False,False,False,False
+480,Machine Learning Algorithm Engineer,    3coast,"San Mateo, CA",120000 - 180000,"Menlo Park, CA",120000,180000,150000.0,True,'CA',True,True,True,False
+481,Site Reliability Engineer,    MountainView Tech Staffing,"San Mateo, CA",120000 - 140000,"Menlo Park, CA",120000,140000,130000.0,True,'CA',True,False,False,False
+482,Machine Learning Engineer - Computer Vision,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",190000,"Menlo Park, CA",190000,190000,190000.0,True,'CA',True,True,True,True
+483,"Data Scientist II, Sequencing",    Enterprise Select,"Pleasanton, CA 94588",120000,"Menlo Park, CA",120000,120000,120000.0,True,'CA',False,False,False,False
+484,Data Scientist,        Jobspring Partners,"King of Prussia, PA 19406",125000,"Collegeville, PA",125000,125000,125000.0,True,'PA',False,False,False,False
+485,Data Scientist,"    Computer Enterprises, Inc. (CEI)","Philadelphia, PA",160000,"Collegeville, PA",160000,160000,160000.0,True,'PA',True,True,True,False
+486,Data Scientist,        Workbridge Associates,"Philadelphia, PA",95000 - 120000,"Collegeville, PA",95000,120000,107500.0,False,'PA',False,False,False,False
+487,Clinical Study Associate Trial Master File – TMF,    inVentiv Health Clincal,"Collegeville, PA",50000 - 62000,"Collegeville, PA",50000,62000,56000.0,False,'PA',False,False,False,False
+488,Director of Data Science,    Averity,"Philadelphia, PA",175000 - 215000,"Collegeville, PA",175000,215000,195000.0,True,'PA',True,True,True,True
+489,Principal Data Scientist,    Averity,"Philadelphia, PA",155000 - 160000,"Collegeville, PA",155000,160000,157500.0,True,'PA',True,True,True,False
+490,Senior Statistician/Data Scientist-PHARMA,        Smith Hanley Associates,"Horsham, PA",120000,"Collegeville, PA",120000,120000,120000.0,True,'PA',False,False,False,False
+491,Quantitative Analyst (Big Data Focus) at $10+ Billion Hedge...,    Averity,"Philadelphia, PA",200000 - 300000,"Collegeville, PA",200000,300000,250000.0,True,'PA',True,True,True,True
+492,Senior Software Engineer (Scala),    Juno Search Partners,"Philadelphia, PA 19107 (City Center East area)",120000,"Collegeville, PA",120000,120000,120000.0,True,'PA',False,False,False,False
+493,Data Science Manager Healthcare,    Harnham,"Philadelphia, PA",170000,"Collegeville, PA",170000,170000,170000.0,True,'PA',True,True,True,False
+494,"Backend Java Developer - Fully AWS, Machine Learning, BioPha...",        Workbridge Associates,"Philadelphia, PA",90000 - 160000,"Collegeville, PA",90000,160000,125000.0,True,'PA',False,False,False,False
+495,Data Scientist Healthcare,    Harnham,"Philadelphia, PA",130000,"Collegeville, PA",130000,130000,130000.0,True,'PA',True,False,False,False
+496,Angular Software Developer,        Jobspring Partners,"Horsham, PA 19044",100000,"Collegeville, PA",100000,100000,100000.0,False,'PA',False,False,False,False
+497,Sr Quantitative Finance Analyst,    Sr Quantitative Finance Analyst,"New York, NY",100000 - 180000,"Roseland, NJ",100000,180000,140000.0,True,'NY',True,False,False,False
+498,Senior Statistical Programmer,    Whiz Finder Corporation,"East Hanover, NJ",105000 - 125000,"Roseland, NJ",105000,125000,115000.0,True,'NJ',False,False,False,False
+499,Data Scientist,        Oliver James Associates,"New York, NY",160000,"Roseland, NJ",160000,160000,160000.0,True,'NY',True,True,True,False
+500,Data Scientist,    indify,"New York, NY",90000 - 170000,"Roseland, NJ",90000,170000,130000.0,True,'NY',True,False,False,False
+501,Data Scientist,    Enterprise Select,"New York, NY 10038 (Financial District area)",130000,"Roseland, NJ",130000,130000,130000.0,True,'NY',True,False,False,False
+502,Machine Learning Engineer,        Darwin Recruitment,"New York, NY",120000 - 140000,"Roseland, NJ",120000,140000,130000.0,True,'NY',True,False,False,False
+503,Data Architect/ Data Engineer,"    Envisagenics, Inc.","New York, NY",65000 - 110000,"Roseland, NJ",65000,110000,87500.0,False,'NY',False,False,False,False
+504,Senior Research Analyst,        Research Foundation of The City University of New...,"New York, NY",70000 - 80000,"Roseland, NJ",70000,80000,75000.0,False,'NY',False,False,False,False
+505,"Data Team Leader (VP, Director)",        VROOM,"New York, NY",140000 - 180000,"Roseland, NJ",140000,180000,160000.0,True,'NY',True,True,True,False
+506,Senior Data Scientist,        Analytic Recruiting,"New York, NY 10017 (Midtown area)",160000,"Roseland, NJ",160000,160000,160000.0,True,'NY',True,True,True,False
+507,Data Analyst,        ADMIN FOR CHILDREN'S SVCS,"Manhattan, NY",70286 - 88213,"Roseland, NJ",70286,88213,79249.5,False,'NY',False,False,False,False
+508,VP Data Science,    Beeswax,"New York, NY",130000 - 165000,"Roseland, NJ",130000,165000,147500.0,True,'NY',True,True,False,False
+509,Senior Statistical Programmer,        Clark Davis Associates,"Parsippany, NJ 07054",115000,"Roseland, NJ",115000,115000,115000.0,True,'NJ',False,False,False,False
+510,"Project Associate, EQUAL",    NYU Global TIES for Children,"New York, NY",52000,"Roseland, NJ",52000,52000,52000.0,False,'NY',False,False,False,False
+511,"Director of Data Science, Analytics",    Averity,"New York, NY",175000 - 250000,"Roseland, NJ",175000,250000,212500.0,True,'NY',True,True,True,True
+512,Principal Data Scientist,    Averity,"New York, NY",150000 - 185000,"Roseland, NJ",150000,185000,167500.0,True,'NY',True,True,True,False
+513,Frontend Engineer,    605,"New York, NY",95000 - 130000,"Roseland, NJ",95000,130000,112500.0,True,'NY',False,False,False,False
+514,Health Scientist,        Centers for Disease Control and Prevention,"New York, NY",88305 - 146570,"Roseland, NJ",88305,146570,117437.5,True,'NY',False,False,False,False
+515,Senior Data Scientist ( FinTech / Fraud / Python / R / Machi...,    Venturi Ltd,"New York, NY",100000 - 135000,"Roseland, NJ",100000,135000,117500.0,True,'NY',False,False,False,False
+516,Lead Data Scientist,    Averity,"New York, NY",120000 - 140000,"Roseland, NJ",120000,140000,130000.0,True,'NY',True,False,False,False
+517,Data Engineer,    Harnham,"New York, NY",150000,"Roseland, NJ",150000,150000,150000.0,True,'NY',True,True,True,False
+518,"Senior Data Scientist for Multi-Billion, Top-Ranked Global C...",    Averity,"New York, NY",100000 - 120000,"Roseland, NJ",100000,120000,110000.0,True,'NY',False,False,False,False
+519,Research Scientist,"    Solidia Technologies, Inc.","Piscataway, NJ 08854",70000 - 140000,"Roseland, NJ",70000,140000,105000.0,False,'NJ',False,False,False,False
+520,DATA ANALYST,        HRA/DEPT OF SOCIAL SERVICES,"Manhattan, NY",57969 - 62000,"Roseland, NJ",57969,62000,59984.5,False,'NY',False,False,False,False
+521,Hydrologist,        NYC Parks Dept,"New York, NY",72000 - 84000,"Roseland, NJ",72000,84000,78000.0,False,'NY',False,False,False,False
+522,Senior Data Scientist ( FinTech / Python / R / ML / Big Data...,    Venturi Ltd,"New York, NY",120000 - 200000,"Roseland, NJ",120000,200000,160000.0,True,'NY',True,True,True,False
+523,Analytics Consultant,        Smith Hanley Associates,"Paramus, NJ",80000 - 100000,"Roseland, NJ",80000,100000,90000.0,False,'NJ',False,False,False,False
+524,Senior Data Scientist for Fortune 500 Company,    Averity,"New York, NY",150000 - 185000,"Roseland, NJ",150000,185000,167500.0,True,'NY',True,True,True,False
+525,"Data Manager – Researcher, Bureau of Children, Youth &amp; Famil...",        DEPT OF HEALTH/MENTAL HYGIENE,"New York, NY",70286 - 80829,"Roseland, NJ",70286,80829,75557.5,False,'NY',False,False,False,False
+526,Sr Data Scientist - NLP &amp; CODING REQUIRED,    PMES,"New York, NY",155000,"Roseland, NJ",155000,155000,155000.0,True,'NY',True,True,True,False
+527,Environmental Protection Project Manager,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",70286 - 81000,"Roseland, NJ",70286,81000,75643.0,False,'NY',False,False,False,False
+528,NLP Scientist-R&amp;D,        WSI Nationwide,"New York, NY",100000 - 180000,"Roseland, NJ",100000,180000,140000.0,True,'NY',True,False,False,False
+529,Front Desk Quantitative Analyst,        Huxley Associates,"New York, NY 10020 (Midtown area)",150000,"Roseland, NJ",150000,150000,150000.0,True,'NY',True,True,True,False
+530,City Research Scientist,    DEPT OF ENVIRONMENT PROTECTION,"New York, NY",70286 - 88213,"Roseland, NJ",70286,88213,79249.5,False,'NY',False,False,False,False
+531,Data Analyst,        POLICE DEPARTMENT,"New York, NY",70286 - 88213,"Roseland, NJ",70286,88213,79249.5,False,'NY',False,False,False,False
+532,Quantitative Analyst for Global Quant Fund,    Averity,"New York, NY",150000 - 300000,"Roseland, NJ",150000,300000,225000.0,True,'NY',True,True,True,True
+533,Senior Systematic Quantitative Analyst - Multi-billion Dolla...,    Averity,"New York, NY",180000 - 220000,"Roseland, NJ",180000,220000,200000.0,True,'NY',True,True,True,True
+534,CLINICAL RESEARCH SCIENTIST,    The Veritas Healthcare Solutions LLC.,"Bridgewater, NJ",120000,"Roseland, NJ",120000,120000,120000.0,True,'NJ',False,False,False,False
+535,"Quantitative Business Analyst, AVP - NYC",        Huxley Associates,"New York, NY 10020 (Midtown area)",135000,"Roseland, NJ",135000,135000,135000.0,True,'NY',True,False,False,False
+536,Senior Quantitative Financial Analyst-Audit Model Risk,    Access Staffing LLC,"New York, NY 10017 (Midtown area)",140000 - 200000,"Roseland, NJ",140000,200000,170000.0,True,'NY',True,True,True,False
+537,Project Manager,        HRA/DEPT OF SOCIAL SERVICES,"Manhattan, NY",70286 - 83000,"Roseland, NJ",70286,83000,76643.0,False,'NY',False,False,False,False
+538,Field Scientist,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",59000 - 65000,"Roseland, NJ",59000,65000,62000.0,False,'NY',False,False,False,False
+539,"Panel Maintenance Analyst, World Trade Center Health Registr...",        DEPT OF HEALTH/MENTAL HYGIENE,"Manhattan, NY",59708 - 72246,"Roseland, NJ",59708,72246,65977.0,False,'NY',False,False,False,False
+540,Field Scientist,        Miller Advertising,"New York, NY",59000 - 65000,"Roseland, NJ",59000,65000,62000.0,False,'NY',False,False,False,False
+541,Compliance Team Leader,        DEPT. OF HOMELESS SERVICES,"Manhattan, NY",78630 - 103332,"Roseland, NJ",78630,103332,90981.0,False,'NY',False,False,False,False
+542,Policy Data Analyst,        DEPARTMENT OF FINANCE,"Manhattan, NY",68239 - 80000,"Roseland, NJ",68239,80000,74119.5,False,'NY',False,False,False,False
+543,Environmental Permits Coordinator,    DEPT OF PARKS &amp; RECREATION,"Manhattan, NY",59708 - 72246,"Roseland, NJ",59708,72246,65977.0,False,'NY',False,False,False,False
+544,Postdoctoral Fellow,        Icahn School of Medicine at Mount Sinai,"New York, NY",55000,"Roseland, NJ",55000,55000,55000.0,False,'NY',False,False,False,False
+545,Marketing Research Analyst/Consumer Insights Analyst,        The Forum Group,"New York, NY 10016 (Gramercy area)",45000 - 65000,"Roseland, NJ",45000,65000,55000.0,False,'NY',False,False,False,False
+546,"Manager, Client Strategy",    DemystData,"New York, NY",75000 - 110000,"Roseland, NJ",75000,110000,92500.0,False,'NY',False,False,False,False
+547,Remote Statistical Programmer,        Clark Davis Associates,"Bridgewater, NJ",150000,"Princeton, NJ",150000,150000,150000.0,True,'NJ',True,True,True,False
+548,Senior Formulation Scientist,    Sterling Hoffman Executive Search,"Trenton, NJ",120000,"Princeton, NJ",120000,120000,120000.0,True,'NJ',False,False,False,False
+549,Junior SAS Programmer or Statistical Analyst,    Best High Technologies LLC,"Princeton, NJ 08540",60000,"Princeton, NJ",60000,60000,60000.0,False,'NJ',False,False,False,False
+550,"Associate Director, MS&amp;T Downstream",        Bristol Myers-Squibb,"Hopewell, NJ",130000,"Princeton, NJ",130000,130000,130000.0,True,'NJ',True,False,False,False
+551,CLINICAL RESEARCH SCIENTIST,    The Veritas Healthcare Solutions LLC.,"Bridgewater, NJ",120000,"Princeton, NJ",120000,120000,120000.0,True,'NJ',False,False,False,False
+552,Research Scientist,"    Solidia Technologies, Inc.","Piscataway, NJ 08854",70000 - 140000,"Princeton, NJ",70000,140000,105000.0,False,'NJ',False,False,False,False
+553,Portfolio Research Analyst,        Liberty Personnel Services,"East Brunswick, NJ",110000 - 140000,"Princeton, NJ",110000,140000,125000.0,True,'NJ',False,False,False,False
+554,Scientist #2 (Gel Electrophoresis),    Apex Life Sciences,"Township of Franklin, NJ",65000 - 73000,"Princeton, NJ",65000,73000,69000.0,False,'NJ',False,False,False,False
+555,Senior Manager Statistical Programming,    FPC Atlanta,"Bridgewater, NJ",150000,"Princeton, NJ",150000,150000,150000.0,True,'NJ',True,True,True,False
+556,Sr. Scientist #2,    Apex Life Sciences,"Township of Franklin, NJ",100000 - 110000,"Princeton, NJ",100000,110000,105000.0,False,'NJ',False,False,False,False
+557,Applied Statistician,"        Advance Services, Inc.","Creve Coeur, MO",55000 - 75000,"St. Louis, MO",55000,75000,65000.0,False,'MO',False,False,False,False
+558,"Director, Data Analysis",    The McManness Group,"St. Louis, MO",120000 - 160000,"St. Louis, MO",120000,160000,140000.0,True,'MO',True,False,False,False
+559,Statistical Data Analyst - Pathology &amp; Immunology,        Washington University in St. Louis,"St. Louis, MO",47476 - 57657,"St. Louis, MO",47476,57657,52566.5,False,'MO',False,False,False,False
+560,Staff Scientist - The Genome Institute,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+561,Clinical Research Data Analyst - Pediatrics Computing Facili...,        Washington University in St. Louis,"St. Louis, MO",53206 - 69160,"St. Louis, MO",53206,69160,61183.0,False,'MO',False,False,False,False
+562,Clinical Informaticist I - Siteman Cancer Center,        Washington University in St. Louis,"St. Louis, MO",48318 - 61609,"St. Louis, MO",48318,61609,54963.5,False,'MO',False,False,False,False
+563,Staff Scientist - Biochemistry &amp; Molec Biophysic,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+564,Research Scientist I,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+565,Staff Scientist - Biochemistry &amp; Molecular Biophysics,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+566,Senior Scientist - Psychiatry,        Washington University in St. Louis,"St. Louis, MO",48496 - 65481,"St. Louis, MO",48496,65481,56988.5,False,'MO',False,False,False,False
+567,Staff Scientist - Ophthalmology &amp; Visual Science,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+568,Staff Scientist - Computational Genetics - Cardiology,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+569,Data Scientist/Predictive Modeler -- Life/Health-7658,    S.C. International,"St. Louis, MO",125000,"St. Louis, MO",125000,125000,125000.0,True,'MO',False,False,False,False
+570,Staff Scientist - Pediatrics Gastroenterology,        Washington University in St. Louis,"St. Louis, MO",47476 - 60715,"St. Louis, MO",47476,60715,54095.5,False,'MO',False,False,False,False
+571,Senior Java Full Stack Developer,        Mastech Digital,"Creve Coeur, MO",100000 - 125000,"St. Louis, MO",100000,125000,112500.0,True,'MO',False,False,False,False
+572,Market Research Analyst,"    The Klages Group/Research <b>Data</b> Services, Inc.","Tampa, FL",50000,"Tampa, FL",50000,50000,50000.0,False,'FL',False,False,False,False
+573,Marketing Research Analyst,"        Vaco, LLC","Tampa, FL 33609 (Swann Estates area)",50000 - 60000,"Tampa, FL",50000,60000,55000.0,False,'FL',False,False,False,False
+574,Data Visualization Research Specialist,    Northeastern University - Network Science Institut...,"Boston, MA",50000,"Cambridge, MA",50000,50000,50000.0,False,'MA',False,False,False,False
+575,Technical Data Analyst,    Sharp Action LLC,"Somerville, MA",60000 - 85000,"Cambridge, MA",60000,85000,72500.0,False,'MA',False,False,False,False
+576,Data Scientist,        Darwin Recruitment,"Boston, MA",100000 - 140000,"Cambridge, MA",100000,140000,120000.0,True,'MA',False,False,False,False
+577,Public Health Research Analyst,    Metropolitan Area Planning Council,"Boston, MA 02111 (Central area)",55000 - 65000,"Cambridge, MA",55000,65000,60000.0,False,'MA',False,False,False,False
+578,"Senior Analyst, Advanced Analytics",        Liberty Mutual,"Boston, MA",73300 - 114900,"Cambridge, MA",73300,114900,94100.0,False,'MA',False,False,False,False
+579,Senior Research Scientist,        Jobspring Partners,"Cambridge, MA 02139 (Area IV area)",160000,"Cambridge, MA",160000,160000,160000.0,True,"'MA', 'IV'",True,True,True,False
+580,"Analyst/Senior Analyst, Advanced Analytics",        Liberty Mutual,"Boston, MA",73300 - 114900,"Cambridge, MA",73300,114900,94100.0,False,'MA',False,False,False,False
+581,Sr. Quantitative Analyst,        Huxley Associates,"Boston, MA",200000,"Cambridge, MA",200000,200000,200000.0,True,'MA',True,True,True,True
+582,Senior Machine Learning Engineer,        Darwin Recruitment,"Boston, MA",150000 - 200000,"Cambridge, MA",150000,200000,175000.0,True,'MA',True,True,True,False
+583,Logistics Technician,        Abcam,"Cambridge, MA 02139 (Area IV area)",38500,"Cambridge, MA",38500,38500,38500.0,False,"'MA', 'IV'",False,False,False,False
+584,Research Analyst III,        Commonwealth of Massachusetts,"Boston, MA",55017 - 78763,"Cambridge, MA",55017,78763,66890.0,False,'MA',False,False,False,False
+585,"Software Engineers (Scala / Java / Python, Hadoop, Machine L...",        WinterWyman,"Boston, MA 02114 (Back Bay-Beacon Hill area)",120000,"Cambridge, MA",120000,120000,120000.0,True,'MA',False,False,False,False
+586,Clinical Laboratory Surveyor,        Commonwealth of Massachusetts,"Boston, MA",60096 - 87045,"Cambridge, MA",60096,87045,73570.5,False,'MA',False,False,False,False
+587,"Director II, Applied Science, Solaria Labs",        Liberty Mutual,"Boston, MA",141000 - 185400,"Cambridge, MA",141000,185400,163200.0,True,'MA',True,True,True,False
+588,Market Research Analyst,    AP Staffing,"Boston, MA",34000 - 38000,"Cambridge, MA",34000,38000,36000.0,False,'MA',False,False,False,False
+589,"Lead Scientist, Computational Biology",        HireMinds,"Cambridge, MA 02142 (East Cambridge area)",100000,"Cambridge, MA",100000,100000,100000.0,False,'MA',False,False,False,False
+590,SENIOR DIRECTOR OF DATA SCIENCE - RETAIL,    Harnham,"Boston, MA",180000,"Cambridge, MA",180000,180000,180000.0,True,'MA',True,True,True,True
+591,Data Scientist,    Corporate Consulting Services,"Boston, MA 02108 (Back Bay-Beacon Hill area)",130000 - 150000,"Cambridge, MA",130000,150000,140000.0,True,'MA',True,False,False,False
+592,Biostatisticians / Boston / Precision Medicine,    Invenia Resourcing,"Boston, MA",120000,"Cambridge, MA",120000,120000,120000.0,True,'MA',False,False,False,False
+593,SQL*Server Database Developer,"    Horizons Recruitment, Inc.","Boston, MA",120000 - 170000,"Cambridge, MA",120000,170000,145000.0,True,'MA',True,True,False,False
+594,Software Development Engineer,        WDS Global Partners LLC,"Boston, MA",130000 - 160000,"Cambridge, MA",130000,160000,145000.0,True,'MA',True,True,False,False
+595,E-mail Marketing Rockstar - Manager,    IntelyCare,"Quincy, MA",60000 - 80000,"Cambridge, MA",60000,80000,70000.0,False,'MA',False,False,False,False
+596,Site Reliability Engineer,        Workbridge Associates,"Boston, MA 02116 (South End area)",130000,"Cambridge, MA",130000,130000,130000.0,True,'MA',True,False,False,False
+597,"Manager, Exploratory Statistics",    Penfield Search Partners,"Cambridge, MA",150000,"Cambridge, MA",150000,150000,150000.0,True,'MA',True,True,True,False
+598,Senior .NET Software Engineer,        Jobspring Partners,"Cambridge, MA 02140 (North Cambridge area)",130000,"Cambridge, MA",130000,130000,130000.0,True,'MA',True,False,False,False
+599,Quantitative Data Scientist,        Huxley Associates,"Boston, MA",175000,"Cambridge, MA",175000,175000,175000.0,True,'MA',True,True,True,False
+600,Research Analyst - fintech startup,    Bison,"Boston, MA",45000,"Cambridge, MA",45000,45000,45000.0,False,'MA',False,False,False,False
+601,Data Analyst/Statistician-PHARMA,        Smith Hanley Associates,"Stamford, CT",90000 - 110000,"Stamford, CT",90000,110000,100000.0,False,'CT',False,False,False,False
+602,Executive Assistant/ Research Analyst,    Fogarty Knapp Inc,"Riverside, CT 06878",90000 - 150000,"Stamford, CT",90000,150000,120000.0,True,'CT',False,False,False,False
+603,Statistical Analyst Management Consultant,        Analytic Recruiting,"Stamford, CT",70000 - 100000,"Stamford, CT",70000,100000,85000.0,False,'CT',False,False,False,False
+604,Statistical Modeler,        Top Prospect Group,"Darien, CT",115000,"Stamford, CT",115000,115000,115000.0,True,'CT',False,False,False,False
+605,Research Scientist,        Stony Brook University,"Stony Brook, NY",54000 - 70000,"Stamford, CT",54000,70000,62000.0,False,'NY',False,False,False,False
+606,Data Scientist- Hedge Fund,    Princeton Consulting,"Norwalk, CT",100000 - 150000,"Stamford, CT",100000,150000,125000.0,True,'CT',False,False,False,False
+607,HPLC Scientist,    Pharma R&amp;D Consultants,"Ridgefield, CT 06877",60000,"Stamford, CT",60000,60000,60000.0,False,'CT',False,False,False,False
+608,Quantitative Research Analyst at $10B+ Hedge Fund (CT),    Averity,"Norwalk, CT",200000,"Stamford, CT",200000,200000,200000.0,True,'CT',True,True,True,True
+609,Data Scientist,    Keyo,"Palo Alto, CA",120000 - 200000,"Santa Clara, CA",120000,200000,160000.0,True,'CA',True,True,True,False
+610,Data Scientist,    ITStaff Technical Resources,"Santa Clara, CA",85000 - 120000,"Santa Clara, CA",85000,120000,102500.0,False,'CA',False,False,False,False
+611,"Principal Software Engineer, Data Science",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Santa Clara, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+612,Data Scientist,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",160000,"Santa Clara, CA",160000,160000,160000.0,True,'CA',True,True,True,False
+613,Principal Data Scientist,    ITStaff Technical Resources,"Santa Clara, CA",100000 - 150000,"Santa Clara, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+614,"Senior Scientist III, Pre-Clinical Safety",    EPM Scientific,"Redwood City, CA",140000,"Santa Clara, CA",140000,140000,140000.0,True,'CA',True,False,False,False
+615,Data Engineer,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 165000,"Santa Clara, CA",130000,165000,147500.0,True,'CA',True,True,False,False
+616,Machine Learning Engineer/Scientist,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",150000 - 175000,"Santa Clara, CA",150000,175000,162500.0,True,'CA',True,True,True,False
+617,Big Data Engineer,        Jobspring Partners,"Mountain View, CA 94043",170000,"Santa Clara, CA",170000,170000,170000.0,True,'CA',True,True,True,False
+618,"Principle Scientist, Data Science, System integration",    MatchPointe Group,"Santa Clara, CA",100000 - 150000,"Santa Clara, CA",100000,150000,125000.0,True,'CA',False,False,False,False
+619,"Principal Data Scientist, Sequencing",    Enterprise Select,"Santa Clara, CA 95050",150000,"Santa Clara, CA",150000,150000,150000.0,True,'CA',True,True,True,False
+620,Senior Data Scientist,        Workbridge Associates,"Mountain View, CA 94039",200000,"Santa Clara, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+621,SENIOR ARTICIAL INTELLIGENCE (AI)/ DATA SCIENTIST,"    TW STAFFING SOLUTIONS,INC","San Jose, CA",150000 - 200000,"Santa Clara, CA",150000,200000,175000.0,True,'CA',True,True,True,False
+622,Machine Learning Infrastructure Engineer,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",120000 - 180000,"Santa Clara, CA",120000,180000,150000.0,True,'CA',True,True,True,False
+623,Machine Learning Engineer - Computer Vision,        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",190000,"Santa Clara, CA",190000,190000,190000.0,True,'CA',True,True,True,True
+624,Machine Learning / Deep Learning Internship(s),    TERADEEP INC.,"Campbell, CA",40000 - 80000,"Santa Clara, CA",40000,80000,60000.0,False,'CA',False,False,False,False
+625,STAFF DATA SCIENTIST / DEEP LEARNING,    TERADEEP INC.,"Campbell, CA",120000 - 160000,"Santa Clara, CA",120000,160000,140000.0,True,'CA',True,False,False,False
+626,Senior Machine Learning Scientist,    Tandem Recruiting Group,"Santa Clara, CA",180000,"Santa Clara, CA",180000,180000,180000.0,True,'CA',True,True,True,True
+627,"Data Scientist II, Sequencing",    Enterprise Select,"Pleasanton, CA 94588",120000,"Santa Clara, CA",120000,120000,120000.0,True,'CA',False,False,False,False
+628,Senior Machine Learning Data Scientist,        Workbridge Associates,"Pleasanton, CA 94588",200000,"Santa Clara, CA",200000,200000,200000.0,True,'CA',True,True,True,True
+629,Data Scientist - Growth Team (Healthcare Startup),        Jobspring Partners,"San Jose, CA 95113 (Downtown area)",130000 - 180000,"Santa Clara, CA",130000,180000,155000.0,True,'CA',True,True,True,False
+630,Mid-Level Machine Learning Data Scientist,        Workbridge Associates,"Sunnyvale, CA 94085",190000,"Santa Clara, CA",190000,190000,190000.0,True,'CA',True,True,True,True
+631,Junior Computer Vision &amp; Machine Learning Researcher,    Tandem Recruiting Group,"Santa Clara, CA",150000,"Santa Clara, CA",150000,150000,150000.0,True,'CA',True,True,True,False
+632,Data Scientist,"    Epitec, Inc.","Dearborn, MI",93600 - 104000,Detroit,93600,104000,98800.0,False,'MI',False,False,False,False
+633,Research Analyst,    ASK Services Inc.,"Canton, MI 48187",35000,Detroit,35000,35000,35000.0,False,'MI',False,False,False,False
+634,Cockpit Module/Instrument Panel Project Engineer,        Altair Engineering,"Farmington Hills, MI",90000,Detroit,90000,90000,90000.0,False,'MI',False,False,False,False
+635,App Programmer / Analyst Assoc,        University of Michigan,"Ann Arbor, MI",45000 - 55000,"Ann Arbor, MI",45000,55000,50000.0,False,'MI',False,False,False,False
+636,Research Analyst,    ASK Services Inc.,"Canton, MI 48187",35000,"Ann Arbor, MI",35000,35000,35000.0,False,'MI',False,False,False,False
+637,Cockpit Module/Instrument Panel Project Engineer,        Altair Engineering,"Farmington Hills, MI",90000,"Ann Arbor, MI",90000,90000,90000.0,False,'MI',False,False,False,False
+638,Full Stack Web Developer,    Stout Systems,"Ann Arbor, MI",75000 - 85000,"Ann Arbor, MI",75000,85000,80000.0,False,'MI',False,False,False,False
+639,Digital Marketing (Data Scientist),"    Kennedy Unlimited Inc, Professional Staffing","Des Moines, IA",100000 - 130000,"Des Moines, IA",100000,130000,115000.0,True,'IA',False,False,False,False
+640,User Interface and Data Manager,    Monarch Joint Venture,"Saint Paul, MN",55000 - 62400,"Minneapolis, MN",55000,62400,58700.0,False,'MN',False,False,False,False
+641,Staff Scientist (Biocurator I),        Baylor College of Medicine,"Houston, TX",60000,Houston,60000,60000,60000.0,False,'TX',False,False,False,False
+642,Budget &amp; Research Analyst,"    City of Goodyear, AZ","Goodyear, AZ",63696 - 94557,Phoenix,63696,94557,79126.5,False,'AZ',False,False,False,False
+643,Sr Data Scientist,    PMES,"San Ramon, CA",150000,San Francisco,150000,150000,150000.0,True,'CA',True,True,True,False
+644,Sr Data Scientist,    PMES,"New York, NY",155000,New York,155000,155000,155000.0,True,'NY',True,True,True,False
+645,Machine Learning Engineer,        Darwin Recruitment,"New York, NY",120000 - 140000,New York,120000,140000,130000.0,True,'NY',True,False,False,False
+646,Government Enterprise Architect,        xentity corporation,"Denver, CO",95000 - 127000,Denver,95000,127000,111000.0,True,'CO',False,False,False,False
+647,Solutions Development Engineer,        Oversight Systems,"Atlanta, GA",58600,Atlanta,58600,58600,58600.0,False,'GA',False,False,False,False
+648,Senior Research Analyst,"    Competitive Promotion Report, LLC","Marietta, GA",45000 - 55000,Atlanta,45000,55000,50000.0,False,'GA',False,False,False,False
